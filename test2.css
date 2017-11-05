@@ -1,0 +1,171 @@
+html, body {
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 15px;
+}
+
+div {
+    padding-top: 2em;
+}
+
+#top {
+    width: 780px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+#NAGLOWEK {
+    background-color: #888;
+}
+
+#MENU {
+    padding-top: 1em;
+    width: 150px;
+    float: left;
+    overflow: hidden;
+    background-color: #ccc;
+}
+
+#TRESC {
+    width: 630px;
+    float: right;
+    overflow: hidden;
+    background-color: #fff;
+}
+
+#STOPKA {
+    clear: both;
+    width: 100%;
+    background-color: #888;
+}
+
+#MENU ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    padding: none;
+    background-color: #888;
+    
+}
+#MENU > ul > li:first-child{
+  border-top:none;
+}
+#MENU  ul ul{
+  padding-left: 0.5em;
+}
+
+#MENU li {
+
+    border-top: 1px solid #808080;
+
+}
+
+#MENU ul a:link, ul a:visited {
+    display: block;
+    width: 176px;
+    text-decoration: none;
+    padding: 7px;
+    background-color: #ccc;
+    color: black;
+    border-left: 10px solid #808080;
+}
+
+#MENU ul a:hover {
+    width: 166px;
+    background-color: #808080;
+    color: #ccc;
+    border-left: 15px solid #C0C0C0;
+}
+
+h1{
+    text-align: center;
+    font-size: 1.2em;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+}
+th,tr,td {
+    border:3px solid #fff;
+}
+
+h2{
+    text-decoration: none;
+    font-size: 1em;
+    font-weight: normal;
+}
+
+h2::first-line{
+    text-decoration: underline;
+}
+form {
+  background: -webkit-linear-gradient(bottom, #CCCCCC, #808080 175px);
+  background: -moz-linear-gradient(bottom, #CCCCCC, #808080 175px);
+  background: linear-gradient(bottom, #CCCCCC, #808080 175px);
+  margin: auto;
+  position: relative;
+  width: 550px;
+  height: 550px;
+  font-size: 1em;
+  color: black;
+  text-decoration: none;
+  border-radius: 10px;
+  padding: 10px;
+  border: 1px solid #C0C0C0;
+  border: inset 1px solid #333;
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  
+}
+input {
+  width: 375px;
+  display: block;
+  border: 1px solid #999;
+  height: 25px;
+  -webkit-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  -moz-box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+  box-shadow: 0px 0px 8px rgba(0, 0, 0, 0.3);
+}
+textarea#wiad {
+  width: 375px;
+  height: 170px;
+  display: block;
+}
+textarea:focus,input:focus{
+    border:1px solid black;
+}
+
+input[type=submit] {
+  width: 100px;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: #808080;
+  color: black;
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid #C0C0C0;
+}
+input[type=reset]{
+  width: 100px;
+  position: absolute;
+  right: 20px;
+  bottom: 60px;
+  background: #808080;
+  color: black;
+  height: 30px;
+  border-radius: 15px;
+  border: 1px solid #C0C0C0;
+}
+
+ul.materialy{
+  list-style: square;
+}
+

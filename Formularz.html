@@ -1,0 +1,51 @@
+
+<!DOCTYPE HTML>
+<html lang="pl-PL">
+
+<head>
+    <title>Formularz</title>
+    <meta charset="UTF-8" />
+    <link rel="Stylesheet" href="test2.css" />
+</head>
+<body>
+    <div id="top">
+        <div id="NAGLOWEK">
+            <h1>Moje hobby</h1>
+        </div>
+        <div id="MENU">
+            Menu nawigacyjne
+            <ul id="lista">
+                <li>
+                    <a href="Informacje.html">Informacje</a>
+                    <ul>
+                        <li><a href="Historia.html">Historia</a></li>
+                        <li><a href="Tabelka.html">Zestawienie</a></li>
+                    </ul>
+                </li>
+                <li><a href="Formularz.html">Formularz</a></li>
+                <li><a href="Galeria.html">Galeria</a></li>
+                <li><a href="Kontakt.html">Kontakt</a></li>
+            </ul>
+        </div>
+        <div id="TRESC">
+            <br />
+            <form action="mailto:ania.przybycien@gmail.com?subject=Formularz" enctype="text/plain" method="post">
+                <h2>Zapisz się do newslettera!</h2>
+                <label>Imie: <input type="text" name="imie" /></label>
+                <label>Nazwisko: <input type="text" name="nazwisko" /></label>
+                
+                <label>Adres email:<input type="email" name="email" required="Adres email jest wymagany"></label>
+                <label>Numer telefonu:<input type="tel" name="nr"></label><br/>
+                <label>Mam skończone 13 lat<input type="checkbox" name="wiek"></label>
+                <label>Ile wiadomości chciałbyś otrzymywać miesięcznie<br/>
+                    <input type="number" min="0" max="10" step="1" value="5" name="ile"></label><br/>
+                    <textarea name="message" id="wiad">Wpisz tekst wiadomości</textarea>
+                    <input type="submit" value="Wyślij" />
+                    <input type="reset">
+                </form>
+                <br />
+            </div>
+            <div id="STOPKA">Stopka serwisu</div>
+        </div>
+    </body>
+    </html>
