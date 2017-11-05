@@ -1,0 +1,1371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items>
+    <item>
+        <name>Kapusta kwaszona ślężańska</name>
+        <form>Nitki mają kształt nieregularny i podłużny.</form>
+        <color>Kolor lekko kremowy, z odcieniem bieli, w zależności od długości okresu kwaszenia.</color>
+        <appearance>Podłużne nitki, powstałe po szatkowaniu białych główek kapusty, mogą występować śladowe ilości startej marchwi.</appearance>
+        <consistency>Twarda i chrupka.</consistency>
+        <flavor>Smak lekko kwaśny z posmakiem lekkiej słodyczy, zapach typowy dla kiszonej kapusty.</flavor>
+        <size>Nitki mają długość 10-20 cm, grubość ok. 0,2–0,8 cm.</size>
+    </item>
+    <item>
+        <name>Szparagi z Janiszowa</name>
+        <form>Prosty pęd z zamkniętym czubkiem, dopuszczalne są lekko zagięte pędy.</form>
+        <color>Biała, fioletowa lub zielona.</color>
+        <appearance>Podłużny, na przekroju owalny.</appearance>
+        <consistency>Delikatna, krucha.</consistency>
+        <flavor>Słodki, gorzki – w zależności od odmiany, bez charakterystycznego zapachu.</flavor>
+        <size>Długość od 16 do 22 cm, średnica 8-22 mm.</size>
+    </item>
+    <item>
+        <name>Papierówka w syropie</name>
+        <form>W zależności od naczynia.</form>
+        <color>Słomkowozłocista.</color>
+        <appearance>Jabłka zanurzone w słomkowozłocistym płynie.</appearance>
+        <consistency>Płynna z całymi jabłkami o zwartej strukturze.</consistency>
+        <flavor>Słodki, lekko kwaskowy, zapach świeżych jabłek.</flavor>
+        <size>W zależności od naczynia, jabłka wielkości ok. 5x4 cm, o średnicy 3-4 cm.</size>
+    </item>
+    <item>
+        <name>Kapusta kwaszona nadnotecka</name>
+        <form>Nierównomierne pasemka</form>
+        <color>Biało-kremowa</color>
+        <appearance>Drobno poszatkowane ścinki kapusty białej nasączone sokiem</appearance>
+        <consistency>Krucha</consistency>
+        <flavor>Smak słodko-winny, zapach przyjemny, świeży, zachęcający do bezpośredniej konsumpcji</flavor>
+        <size>Kawałki kapusty o długości 2-8 cm i grubości ok. 1,5 mm</size>
+    </item>
+    <item>
+        <name>Ćwikła z Werbkowic</name>
+        <form>Przecier warzywny wyrównany w słoju.</form>
+        <color>Z zewnątrz i w przekroju od czerwonej do amarantowej, z wyraźnymi białymi punktami.</color>
+        <appearance>Jednolita i wyrównana masa powstała z przetartych buraków ćwikłowych i tartego korzenia chrzanu.</appearance>
+        <consistency>Gęsta, jednolita masa o wyrównanej konsystencji i jednakowym stopniu rozdrobnienia użytych składników.</consistency>
+        <flavor>Smak świeżych, gotowanych buraków czerwonych, z wyraźnym smakiem chrzanu białego. Słodkawo-kwaśny, ostry, zapach buraków czerwonych i tartego chrzanu, bez obcych posmaków i zapachów.</flavor>
+        <size>W zależności od słoja najczęściej około 220 g.</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone nadnoteckie</name>
+        <form>Owalny, w przekroju zbliżony do okrągłego.</form>
+        <color>Oliwkowo-zielona, w przekroju nieco jaśniejsza. Barwa zalewy – szaro-biała.</color>
+        <appearance>Błyszczące, owalne ogórki, równomiernie wybarwione, na przekroju widoczne dobrze wypełnione gniazda nasienne.</appearance>
+        <consistency>Stała. Ogórki są jędrne i chrupiące.</consistency>
+        <flavor>Kwaśny, charakterystyczny dla ogórków kiszonych z wyczuwalnym aromatem przypraw.</flavor>
+        <size>Długość od 6 do 15 cm, średnica od 3 do 5 cm.</size>
+    </item>
+    <item>
+        <name>Truskawka z gminy Puławy</name>
+        <form>Stożkowaty, stożkowato sercowy lub sercowato kulisty. Owoce regularne, wyrównane.</form>
+        <color>W zależności od odmiany owoców od jasnopomarańczowej po intensywną, ciemnoczerwoną. Miąższ w przekroju czerwony lub jasnoczerwony z nieco jaśniejszym środkiem.</color>
+        <appearance>Sadzonki owoców odmian: Honeoye, Darselect, Marmolada (Onebor), Elkat, Florence i Pandora. Większość odmian charakteryzuje zwarty, wzniesiony pokrój. Ulistnienie od jasno do ciemnozielonego, liście błyszczące. Owoce regularne i wyrównane. Skórka błyszcząca lub z lekkim połyskiem.</appearance>
+        <consistency>Jędrne i soczyste.</consistency>
+        <flavor>Owoce bardzo aromatyczne, w zależności od odmiany od bardzo słodkich (Honeoye) po lekko kwaskowate (Elkat).</flavor>
+        <size>W zależności od odmiany owoców. Największe truskawki odmiany Darselect osiągają wagę do 150 g.</size>
+    </item>
+    <item>
+        <name>Dżem żurawinowy biłgorajski</name>
+        <form>W zależności od opakowania.</form>
+        <color>Ciemnowiśniowa.</color>
+        <appearance>Gęsta masa z widocznymi małymi ziarenkami żurawiny.</appearance>
+        <consistency>Gęsta, zbita masa, lekko kleista.</consistency>
+        <flavor>Smak słodko-kwaśny, aromat żurawinowy.</flavor>
+        <size>W zależności od opakowania.</size>
+    </item>
+    <item>
+        <name>Konfitura z owoców róży</name>
+        <form>W zależności od naczynia.</form>
+        <color>Intensywna, pomarańczowo-czerwona.</color>
+        <appearance>Gęsta masa koloru pomarańczowo-czerwonego.</appearance>
+        <consistency>Gęsta masa.</consistency>
+        <flavor>Słodki z lekko kwaśnym posmakiem.</flavor>
+        <size>W zależności od naczynia, zazwyczaj ok. 200 g.</size>
+    </item>
+    <item>
+        <name>Konfitura poziomkowa</name>
+        <form>W zależności od naczynia.</form>
+        <color>Bordowo-brunatna, intensywna, z widocznymi jasnymi pestkami poziomek.</color>
+        <appearance>Całe owoce poziomek i ich fragmenty zawieszone w gęstym syropie.</appearance>
+        <consistency>Niejednorodna, lejąca, dość gęsta z całymi owocami poziomek.</consistency>
+        <flavor>Słodki, intensywny, charakterystyczny dla poziomek, z lekko wyczuwalną goryczką owoców. Zapach zharmonizowany, łagodny, charakterystyczny dla poziomek.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Jabłka kraśnickie</name>
+        <form>Okrągły.</form>
+        <color>Czerwona lub żółta z czerwonym wyraźnym lub rozmytym rumieńcem.</color>
+        <appearance>Owoc okrągły, w zależności od odmiany czerwony lub żółty z czerwonym rumieńcem.</appearance>
+        <consistency>Owoc jędrny, twardy.</consistency>
+        <flavor>Słodki, słodko-kwaśny, aromatyczny.</flavor>
+        <size>Od 6 cm do 8 cm średnicy.</size>
+    </item>
+    <item>
+        <name>Konfitura różana z Końskowoli</name>
+        <form>W zależności od opakowania.</form>
+        <color>Intensywna, ciemnobordowa, amarantowa.</color>
+        <appearance>Utarta masa z płatków róż, cukru oraz soku z cytryny.</appearance>
+        <consistency>Gęsta masa.</consistency>
+        <flavor>Intensywny różany.</flavor>
+        <size>W zależności od opakowania.</size>
+    </item>
+    <item>
+        <name>Tymianek z Fajsławic</name>
+        <form>Łodygi rośliny są czterokanciaste, liście mają kształt podłużnie owalny, są podwinięte na brzegach. Kwiaty mają kształt kielichów, zebrane w kwiatostany.</form>
+        <color>Łodygi zdrewniałe z zielonymi pędami. Liście szarozielone, kwiaty białe, różowoczerwone, czerwono-fioletowe lub szkarłatne.</color>
+        <appearance>Silnie rozgałęziona krzewina z rodziny wargowych. Ze zdrewniałych, czterokanciastych łodyg wyrastają zielone pędy z naprzeciwlegle ułożonymi drobnymi wąskimi listkami, owłosionymi od spodu i podwiniętymi na brzegach. W kątach górnych liści wyrastają małe kwiaty zebrane w kwiatostany główkowate lub wydłużone i przerywane.</appearance>
+        <consistency>Sztywne gałązki o wiotkich końcach. Liście miękkie. Gałązki ziela suszonego sztywne, a liście kruszą się.</consistency>
+        <flavor>Tymianek charakteryzuje się gorzkawym, pikantnym smakiem i intensywnym orzeźwiającym ziołowym zapachem wynikającym z zawartości olejku tymolowego. Cała roślina wydaje silną, aromatyczną woń.</flavor>
+        <size>Roślina rosnąca do wysokości od 10 cm do 40 cm.</size>
+    </item>
+    <item>
+        <name>Szarytka w marynacie</name>
+        <form>Lekko wydłużony, widoczne wklęśnięcia przy gnieździe nasiennym – w przekroju.</form>
+        <color>Żółta.</color>
+        <appearance>Zwarta, gładka w przekroju i wyglądzie zewnętrznym.</appearance>
+        <consistency>Stała po obgotowaniu.</consistency>
+        <flavor>Lekko słodkawo-kwaśna gruszka, zapach korzenny, bez żadnych domieszek.</flavor>
+        <size>Średnia, w zależności od przygotowania. Przeważnie gruszka zostaje podzielona na 4 części.</size>
+    </item>
+    <item>
+        <name>Syrop malinowy z Mikołajówki</name>
+        <form>W zależności od naczynia.</form>
+        <color>Ciemno-czerwona.</color>
+        <appearance>Gęsta ciemno-czerwona ciecz.</appearance>
+        <consistency>Lepki, gęsty syrop.</consistency>
+        <flavor>Zapach świeżych owoców malin, smak słodki, lekko kwaśny.</flavor>
+        <size>Wielkość jest zależna od opakowań – 0,33 litra do 0,5 litra.</size>
+    </item>
+    <item>
+        <name>Powidła śliwkowe z Mikołajówki</name>
+        <form>W zależności od naczynia.</form>
+        <color>Ciemnobrązowa.</color>
+        <appearance>Jednolita masa z wyraźnymi cząstkami śliwek.</appearance>
+        <consistency>Gęsta lepka masa z delikatnymi cząstkami owoców.</consistency>
+        <flavor>Smak śliwek, słodko-kwaśny. Zapach dojrzałych owoców śliwek węgierek.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Konfitura szczecińska z zielonych pomidorów</name>
+        <form>W zależności do naczynia. Pokrojone pomidory mają kształt nerkowaty (pokrojone w ósemki).</form>
+        <color>Jasno-zielona.</color>
+        <appearance>Kawałki zielonych, szklistych pomidorów zanurzone w gęstym syropie.</appearance>
+        <consistency>Półpłynna.</consistency>
+        <flavor>Słodki, smak i aromat skórki cytrynowej.</flavor>
+        <size>Uzależniona od wielkości pomidorów, średnio 3-4 cm.</size>
+    </item>
+    <item>
+        <name>Ziemniak wyszoborski</name>
+        <form>Owalne, lekko spłaszczone bulwy.</form>
+        <color>Skórka bulwy jasna, miąższ jasnożółty.</color>
+        <appearance>Dość regularny zarys kształtu bulwy, oczka średnio-płytkie. </appearance>
+        <consistency>Bulwy w stanie surowym twarde, skórka lekko chropowata;</consistency>
+        <flavor>Typowy dla ziemniaka.</flavor>
+        <size>Bulwy średniej wielkości.</size>
+    </item>
+    <item>
+        <name>Konfitura szczecińska z owoców róży</name>
+        <form>Połówki owoców róży.</form>
+        <color>Od pomarańczowej do ciemnoczerwonej.</color>
+        <appearance>Połówki owoców róży w syropie.</appearance>
+        <consistency>Gęsty syrop.</consistency>
+        <flavor>Słodki.</flavor>
+        <size>Średnica owocu wynosi ok. 2-3 cm.</size>
+    </item>
+    <item>
+        <name>Ogórek kołobrzeski</name>
+        <form>Owalny</form>
+        <color>Zielona</color>
+        <appearance>Owoce cylindryczne, średnio długie, zielone z jaśniejszymi smugami, typu grubobrodawkowego, w przekroju mięsiste i jędrne z widocznymi nasionami</appearance>
+        <consistency>Ścisłe, jędrne, chrupiące</consistency>
+        <flavor>Smak w zależności od czasu fermentacji: ogórek małosolny – lekko kwaśny z charakterystycznym posmakiem świeżej fermentacji, delikatnie słony niepowtarzalny smak i zapach dzięki mikroelementom zawartym w naturalnej solance ze źródeł solankowych znajdujących się na wyspie Solnej w Kołobrzegu ogórek kiszony – bardziej kwaśny, o niepowtarzalnym smaku i zapachu czosnku, kopru i chrzanu</flavor>
+        <size>5-10 cm</size>
+    </item>
+    <item>
+        <name>Jeziorowy ogórek kiszony</name>
+        <form>Podłużny, cylindryczny.</form>
+        <color>Barwa zewnętrzna kiszonego ogórka jest oliwkowozielona, na przekroju nieco jaśniejsza.</color>
+        <appearance>Gładka powierzchnia z niewielkimi brodawkami.</appearance>
+        <consistency>Ogórek kiszony powinien być twardy i pełny w środku.</consistency>
+        <flavor>Smak charakterystyczny dla ogórka kiszonego z wyczuwalnym zapachem przypraw – kopru, czosnku i chrzanu.</flavor>
+        <size>Od 8-15 cm, średnica od 3-5 cm.</size>
+    </item>
+    <item>
+        <name>Kapusta kiszona z beczki</name>
+        <form>Paseczki o nieregularnej grubości. </form>
+        <color>Słomkowo-kremowa, sok słomkowo-żółtawy, przejrzysty. </color>
+        <appearance>Wąskie paseczki kapusty o grubości 2-3 mm zanurzone w kwaśnym soku kapuścianym o słomkowo-żółtawym kolorze. </appearance>
+        <consistency>W zależności od czasu kiszenia – początkowo paseczki są jędrne i chrupiące, później miękkie i nitkowate. </consistency>
+        <flavor>Przyjemny kwaskowy smak i zapach. </flavor>
+        <size>Paski długość 2-25 cm, w przekroju 2-3 mm na 4-6 mm. </size>
+    </item>
+    <item>
+        <name>Wielkopolski dżem z wiśni sokówki</name>
+        <form>W zależności od naczynia.</form>
+        <color>Ciemnoczerwona (ciemnowiśniowa).</color>
+        <appearance>W gotowym dżemie widoczne są owoce wiśni.</appearance>
+        <consistency>Zawiesisty, gęsty dżem, z widocznymi owocami wiśni.</consistency>
+        <flavor>Smak dżemu jest słodko-kwaskowy o aromacie owocowym, wiśniowym.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Szparag kiszony pakosławski</name>
+        <form>Podłużny, ze zwięzłą główką, na przekroju okrągły.</form>
+        <color>Biała, nie ulega zmianie po zakiszeniu.</color>
+        <appearance>Szparag biały, pozbawiony zewnętrznej łuski, po ścięciu lśniący, z lekkimi przebarwieniami, po zakiszeniu pozostaje biały i chrupki.</appearance>
+        <consistency>Zwięzła, twarda w dotyku.</consistency>
+        <flavor>Smak lekko kwaśny, z bukietem zapachowym użytych do kiszenia przypraw, głównie czosnku, kopru i liścia czarnej porzeczki.</flavor>
+        <size>Około 22 cm długości, grubość od 1 cm do 2 cm.</size>
+    </item>
+    <item>
+        <name>Susz wigilijny wielkopolski</name>
+        <form>Kształt nieregularny charakterystyczny dla suszonych owoców</form>
+        <color>Charakterystyczna dla danego owocu. Od jasnokremowej do ciemnego brązu. Na przekroju brunatne do kremowych.</color>
+        <appearance>Krojone owoce, pomarszczone, twarde, obkurczone</appearance>
+        <consistency>Twarde, sztywne, chropowate </consistency>
+        <flavor>Smak słodko-kwaśny, lekko owocowy </flavor>
+        <size>Kawałki suszonych owoców wielkości około 4-6 cm</size>
+    </item>
+    <item>
+        <name>Ogórek kiszony „osiecki”</name>
+        <form>Podłużny, jasnozielony, łódkowaty </form>
+        <color>Zewnętrzna – ciemnozielona, na przekroju – jasnozielona
+        </color>
+        <appearance>Jasnozielony z małą ilością pestek </appearance>
+        <consistency>Zwarta, twarda w dotyku
+        </consistency>
+        <flavor>Smak lekko kwaśny, słonawy, z dającym się wyczuć posmakiem kwasu mlekowego, który powstaje w wyniku fermentacji; zapach przypraw – chrzanu, czosnku, kopru </flavor>
+        <size>Ogórki całe – długość 6-10 cm </size>
+    </item>
+    <item>
+        <name>Szabel w zalewie</name>
+        <form>Typowy dla fasoli szparagowej w całości</form>
+        <color>Barwa strąków żółta, na przekroju kolor nieco jaśniejszy, zalewa klarowna, prawie bezbarwna</color>
+        <appearance>Strąki młode, dobrze wybarwione, jędrne, na przekroju widoczne niewykształcone ziarna</appearance>
+        <consistency>Strąki gładkie, elastyczne, o dość twardej konsystencji </consistency>
+        <flavor>Delikatny, charakterystyczny dla fasolki smak i zapach</flavor>
+        <size>Strąki długości 12-15 cm</size>
+    </item>
+    <item>
+        <name>Marynata z korbola</name>
+        <form>Niezbyt duża o dość regularnym kształcie kostka.</form>
+        <color>Surowiec jednakowo dobrze wybarwiony w kolorze żółtopomarańczowym.</color>
+        <appearance>Miąższ dojrzałej dyni pokrojony w kostkę w klarownej zalewie o złocistym odcieniu.</appearance>
+        <consistency>Kostki jędrne i mięsiste.</consistency>
+        <flavor>Delikatny lekko kwaśny smak i aromat.</flavor>
+        <size>Kostka o wymiarach 2 cm x 2 cm.</size>
+    </item>
+    <item>
+        <name>Wielkopolskie kompoty</name>
+        <form>Owoce w całości o kształcie charakterystycznym dla danego rodzaju.</form>
+        <color>Owoce dobrze wybarwione, o kolorze charakterystycznym dla danego gatunku owoców. Zalewa klarowna w tonacji uzależnionej od rodzaju użytego surowca.
+        </color>
+        <appearance>Owoce zdrowe, w pełni dojrzałe, bez plam i uszkodzeń, zalewa bez osadu.</appearance>
+        <consistency>Owoce jędrne, soczyste, mięsiste.</consistency>
+        <flavor>Wyraźny smak, delikatny zapach podkreślający walory smakowe.</flavor>
+        <size>Owoce sortowane o zbliżonej wielkości, charakterystycznej dla danego gatunku.</size>
+    </item>
+    <item>
+        <name>Konfitura z zielonych orzechów</name>
+        <form>Owalne połówki owoców orzecha włoskiego, zanurzone w zalewie.</form>
+        <color>Zewnętrzna brunatno-czarna, wewnętrzna brązowa.</color>
+        <appearance>Zielone orzechy włoskie w zalewie.</appearance>
+        <consistency>Stała, w dotyku lekko szorstka i lekko lepka.</consistency>
+        <flavor>Smak słodko-gorzkawy, o zapachu korzennym.</flavor>
+        <size>Połówka orzecha włoskiego o grubości około 1,5 cm i długości do 4 cm.</size>
+    </item>
+    <item>
+        <name>Morela sandomierska zaleszczycka</name>
+        <form>Lekko spłaszczony, owalny.</form>
+        <color>Owoce żółtopomarańczowe, z niewielkim ciemnoczerwonym, cętkowanym rumieńcem, o pomarańczowym miąższu.</color>
+        <appearance>Owoce dość duże, kuliste ze średnio głęboką bruzdą, niekiedy niewyrównane, spłaszczone po bokach.</appearance>
+        <consistency>Owoc średnio twardy.</consistency>
+        <flavor>Owoc słodki o aromatycznym zapachu.</flavor>
+        <size>Owoce średniej wielkości o wadze od 40 gram do 50 gram.</size>
+    </item>
+    <item>
+        <name>Kasza gryczana palona z Antoniowa</name>
+        <form>Trójgraniaste ziarno.</form>
+        <color>Jasnobrązowa, na przekroju biała.</color>
+        <appearance>Suche, niewielkie ziarno.</appearance>
+        <consistency>Suche ziarno, niepękające, twarde.</consistency>
+        <flavor>Zapach aromatyczny, charakterystyczny dla kaszy gryczanej, ziarna kaszy miękkie po ugotowaniu.</flavor>
+        <size>Rozmiar ziarna: 3,2 mm; 3,4 mm; 4,0 mm; 4,2 mm.</size>
+    </item>
+    <item>
+        <name>Chrzan świętokrzyski</name>
+        <form>W zależności od naczynia, w którym znajduje się starty chrzan, np. słoik.</form>
+        <color>Jednolita, kremowo-biała.</color>
+        <appearance>Starty korzeń chrzanu.</appearance>
+        <consistency>Gęsta masa.</consistency>
+        <flavor>Smak kwaśno-słodki. Zapach ostry, drażniący – charakterystyczny dla świeżego chrzanu.</flavor>
+        <size>W zależności od naczynia, w którym znajduje się starty chrzan.</size>
+    </item>
+    <item>
+        <name>Czosnek wójczański</name>
+        <form>Kulisty, lekko spłaszczony, z wystającą w dolnej części piętką.</form>
+        <color>Główka szaro-biała, ząbki okryte łuską barwy od jasnoróżowej po ciemnoróżową, miąższ biały.</color>
+        <appearance>Główka o nieregularnym kształcie z charakterystycznie zarysowanymi przegrodami, ściśle przylegającymi do siebie, otoczona wielowarstwową łuską. W przekroju poprzecznym rozeta z ząbków, w przekroju podłużnym rozsypujące się ząbki.</appearance>
+        <consistency>Jędrna, soczysta, w dotyku lekko lepka.</consistency>
+        <flavor>Ostry, piekący, zapach intensywny, trudny do zniwelowania.</flavor>
+        <size>Masa główki ok. 80 g.</size>
+    </item>
+    <item>
+        <name>Skalbmierskie ogórki kiszone</name>
+        <form>Podłużny, łódkowaty.</form>
+        <color>Zielona, na przekroju jaśniejsza, z widocznymi kremowymi nasionami.</color>
+        <appearance>Podłużne ogórki z charakterystycznymi brodawkami na skórce. Na przekroju mięsiste z widocznymi nasionami, bez pustych przestrzeni.</appearance>
+        <consistency>Zwarta, twarda, jędrna.</consistency>
+        <flavor>Kwaśny, charakterystyczny dla produktów kwaszonych. Zapach z dobrze wyczuwalnym aromatem kopru i czosnku.</flavor>
+        <size>5-10 cm.</size>
+    </item>
+    <item>
+        <name>Suszona damacha z Ponidzia</name>
+        <form>Owalny, w przekroju nieregularny owalny.</form>
+        <color>Ciemnobrązowa przechodząca w czarny, w przekroju brązowo-złocisty miąższ.</color>
+        <appearance>Pomarszczony owoc z błyszczącą skórką, w przekroju miąższ zwarty, ściśle związany z pestką.</appearance>
+        <consistency>Zwarta, w dotyku lepka, miąższ nie odchodzi od pestki.</consistency>
+        <flavor>Słodki, aromatyczny, bliżej pestki bardziej wyrazisty smak.</flavor>
+        <size>Od 1,5 cm do 2,5 cm.</size>
+    </item>
+    <item>
+        <name>Jabłka sandomierskie</name>
+        <form>Związany jest z daną odmianą. U większości jabłek jest okrągły lub zbliżony do okrągłego, tylko kilka gatunków np. Gloster ma kształt podłużny podobny do elipsowatego.</form>
+        <color>Charakterystyczna dla odmiany, poczynając od bordowej, po ciemno-czerwoną, kremowo-żółtą i na zielonej kończąc. W przekroju – miąższ w kolorze kremowym lub białym.</color>
+        <appearance>Jest uzależniony od cech poszczególnych odmian, których rumieniec może być rozmyty lub paskowany. Wybarwienie waha się od 50% do nawet 95% powierzchni owoców i przechodzi od żółtego przez ciemnoczerwony do bordowego.</appearance>
+        <consistency>Konsystencja ścisła, po przekrojeniu miąższ – zależnie od odmiany: zwarty, soczysty, wilgotny, winno-słodki lub słodki. Skórka – w zależności od odmiany może być błyszcząca, gładka, szorstka lub owoskowana. Jabłka typu Jonagold, Janagored przy dłuższym leżakowaniu w przechowalni wytwarzają śliską i twardą w dotyku powłokę w celu nawilżenia skórki jabłka. Jest to naturalne zjawisko i występuje tylko wówczas, gdy jabłko jest przechowywane w odpowiednich warunkach, co wpływa na jego zapach i smak.</consistency>
+        <flavor>Smak i zapach w dużej mierze zależą od gatunku, odmiany i sposobu przechowywania jabłek: słodki, słodko-kwaśny, słodko-winny, kwaskowaty, winny, korzenno-winny, kwaśny z korzennym posmakiem, aromatyczny, soczysty.</flavor>
+        <size>Jest wyznaczona za pomocą średnicy poprzecznej jabłka mierzoną w najszerszym miejscu i zależy od odmiany jabłek. W regionie sandomierskim występują trzy standardowe kalibracje, mierzone jako średnica jabłka: 6,5-7,0 cm, 7,0-7,5 cm, 7,5-8,0 cm (największe okazy mają jabłka odmiany Ligol, niekiedy nawet 12-13 cm średnicy i ważą ok. 0,70 kg).</size>
+    </item>
+    <item>
+        <name>Susz owocowy dębniacki</name>
+        <form>Kształt nieregularny, charakterystyczny dla suszonych owoców.</form>
+        <color>Od jasnokremowej do ciemnobrązowej w zależności od owocu.</color>
+        <appearance>Owoce pokrojone w plasterki lub całe, dość twarde, obkurczone i pomarszczone.</appearance>
+        <consistency>Sztywne, twarde, chropowate.</consistency>
+        <flavor>Zapach owoców i dymu z paleniska, smak słodko-kwaśny, owocowy.</flavor>
+        <size>Kawałki suszonych owoców – pokrojone jabłka i gruszki wielkości 4-6 cm, całe gruszki 6-8 cm, śliwki 4-5 cm.
+        </size>
+    </item>
+    <item>
+        <name>Wiśnia sokowa nadwiślanka</name>
+        <form>Owoc okrągły, lekko spłaszczony.
+        </form>
+        <color>Barwa ciemnoczerwona do bordowej, jednolita na całej powierzchni owocu. Miąższ w kolorze ciemnoczerwonym, jednolity w całej objętości owocu. Intensywna barwa utrzymuje się także po procesie przetwórczym.
+        </color>
+        <appearance>Owoc wiśni o intensywnej bordowej barwie, mniejszy od odmian szlachetnych. </appearance>
+        <consistency>Owoc jędrny, soczysty. </consistency>
+        <flavor>Owoc aromatyczny, smak i zapach charakterystyczny dla wiśni, bardzo intensywny, lekko cierpki. </flavor>
+        <size>Średnica owocu 12-20 mm, masa 2-3,35 g, uzależniona jest od wieku drzewa i stanowiska.
+        </size>
+    </item>
+    <item>
+        <name>Ser jabłeczny</name>
+        <form>Walcowaty, prostokątny na przekroju</form>
+        <color>Ciemny brąz z matowym odcieniem</color>
+        <appearance>Jednorodna zestalona masa, przypominająca skrystalizowany miód </appearance>
+        <consistency>Twarda, bardzo gęsta, zestalona kleista masa</consistency>
+        <flavor>Smak słodki intensywny; zapach intensywnie jabłkowo-goździkowo-pomarańczowy</flavor>
+        <size>Średnica ok. 14 cm; grubość ok. 2,5-3 cm</size>
+    </item>
+    <item>
+        <name>Konfitury z jarzębiny</name>
+        <form>Owalny, okrągły na przekroju</form>
+        <color>Gęsta, luźne (dobrze zachowane) owoce w gęstym syropie miodowym</color>
+        <appearance>Dorodne owoce jarzębiny (6-8 mm) w syropie miodowym</appearance>
+        <consistency>Specyficzny, pikantny, słodko-gorzkawy</consistency>
+        <flavor>Produkt nie zawiera konserwantów ani sztucznych barwników</flavor>
+        <size>Czerwono-rudawa ze złotym, szklistym połyskiem</size>
+    </item>
+    <item>
+        <name>Kasza jaglana gierczycka</name>
+        <form>Kulisty </form>
+        <color>Nasiona barwy bladożółtej</color>
+        <appearance>Obrobione ziarno prosa-kształt okrągły</appearance>
+        <consistency>Sypkie i suche ziarenka</consistency>
+        <flavor>Bezwonne</flavor>
+        <size>Średnica ziaren waha się od 2 do 3 mm</size>
+    </item>
+    <item>
+        <name>Fasola korczyńska</name>
+        <form>Kształt nerkowaty, bocznie spłaszczone</form>
+        <color>Barwa biała, typowa dla zdrowych ziaren</color>
+        <appearance>Ziarna fasoli korczyńskiej są białe, pokryte cienką skórką, dobrze wypełnione, o jednolitym kształcie</appearance>
+        <consistency>Ziarna mają bardzo delikatny, łagodny i pozbawiony goryczy smak. Zapach ziaren naturalny, swoisty, bez zapachu pleśni, stęchlizny i innych obcych zapachów.</consistency>
+        <flavor>Ziarna fasoli korczyńskiej zawierają znaczne ilości białka. Są bogate w sole mineralne, zwłaszcza fosforu i wapnia oraz witaminy (przede wszystkim grupy B).</flavor>
+        <size>Masa 85 ziaren nie może być mniejsza niż 100 gram</size>
+    </item>
+    <item>
+        <name>Truskawka buska faworytka</name>
+        <form>Owoce w przekroju poprzecznym są okrągłe, w przekroju podłużnym sercowate.</form>
+        <color>Dojrzały owoc jest barwy mocno czerwonej przechodzącej w bordowy z widocznymi na jego powierzchni „pestkami” barwy od seledynowo – zielonkawej przez żółtą do czerwonej.</color>
+        <appearance>Owoce truskawki dojrzałe i gotowe do spożycia lub przetworzenia są czerwone, miękkie, szypułka-kielich łatwo odchodzi od owocu. Na całej powierzchni przekroju barwa skórki i miąższu jest równomiernie krwistoczerwona, wybarwiona, komora powietrza średniej wielkości.</appearance>
+        <consistency>Owoce są miękkie pokryte jedwabistą, bardzo cienką skórką, na której widoczne i wyczuwalne są pestki.</consistency>
+        <flavor>Owoce mają intensywny charakterystyczny, świeży owocowy aromat, z lekką nutą kwaskowatości.</flavor>
+        <size>Średnica dojrzałego owocu wynosi 2-5 cm.</size>
+    </item>
+    <item>
+        <name>Czerkieska mąka orkiszowa</name>
+        <form>Charakterystyczny dla produktów sypkich</form>
+        <color>Konsystencja sypka, „maska” (określenie używane przez jednego z młynarzy)</color>
+        <appearance>Puszysty, z widocznymi śladami otrąb</appearance>
+        <consistency>Ziarno bogate smakowo: lekko słodkie, łagodne, przyjemne, orzechowe; bez obcych zapachów</consistency>
+        <flavor>Jasień to miejscowość o długiej tradycji. Niegdyś miejscowość nosiła nazwę Czerkiesy, co podobno miało związek z kaukaskim ludem zwanym Czerkiesami. W większości występują tu ziemie słabe klasy VI nazywane często przez miejscowych mieszkańców „rupeć”, czyli ziemia zmieszana z kamieniami. Większość mieszkańców Jasienia żyje z pola. Jest tu bardzo dużo lasów, są również liczne źródełka, przepływa także rzeka Czarna. Woda jest bardzo czysta, żyją tu bobry, raki, szczeżuje oraz małże wodne. W Jasieniu od niepamiętnych czasów uprawiano pszenicę orkisz. Jest to zboże o małych wymaganiach nawozowych, które udaje się na najsłabszych klasach gleb. Lubi gleby wapienne, a takie właśnie występują w Jasieniu. Orkisz jest prastarą odmianą pszenicy, bardzo popularną w średniowieczu, która na przestrzeni wieków została zastąpiona gatunkami wydajniejszymi i łatwiejszymi w uprawie. Obecnie obserwujemy powrót orkiszu do naszej diety ze względu na jego korzystny wpływ na organizm. Uważany jest za bardzo skuteczny naturalny lek, pomagający odtruć organizm. Wspomaga odchudzanie, leczy cukrzycę oraz łatwo i skutecznie odmładza. Orkisz wzmacnia ciało, jest pomocny w stanach zmęczenia, czy wyczerpania. Dieta orkiszowa obniża poziom cholesterolu we krwi, zapobiega kamicy żółciowej, zmniejsza zapotrzebowanie na insulinę. Orkisz to wysokowartościowy gatunek zboża, bardzo odporny na warunki klimatyczne i choroby, nie wymaga stosowania nawozów ani środków ochrony roślin. Mocna łuska, która otacza ziarno, skutecznie zabezpiecza przed skażeniem z atmosfery, a nawet przed promieniowaniem radioaktywnym. Tutejsi mieszkańcy byli przekonani do wysokiej wartości mąki orkiszowej i uprawiali ją głównie na własne potrzeby. Dokumentami potwierdzającymi, że w Jasieni i jej okolicach pielęgnowano tradycję uprawiania pszenicy orkisz są wywiady przeprowadzone wśród najstarszych mieszkańców tego obszaru.
+        </flavor>
+        <size>Biało‑kremowa, jednolita</size>
+    </item>
+    <item>
+        <name>Truskawka bielińska</name>
+        <form>Średnica poprzeczna truskawki bielińskiej mierzona w najszerszym miejscu zależy od odmiany i waha się w granicach od 0,5 do 5,5 cm. Przeciętna jej masa wynosi 6,0-8,0 g.</form>
+        <color>Konsystencja owoców jest zwarta. Owoce są miękkie i jedwabiste w dotyku. Skórka jest delikatna, ale wyczuwa się na niej maleńkie „pestki”.</color>
+        <appearance>Wygląd zewnętrzny jest uzależniony od cech danej odmiany. Dojrzałe owoce truskawki bielińskiej zarówno na zewnątrz jak i w przekroju charakteryzują się niepowtarzalnym krwisto-czerwonym wybarwieniem i regularnym kształtem. Kielich złożony z małych, wąskich działek przylega do owocu, oddziela się dobrze. Komora powietrzna średniej wielkości.</appearance>
+        <consistency>Owoce mają intensywny, charakterystyczny smak i aromat z dającą się wyczuć lekką nutką kwasowości.</consistency>
+        <flavor>Uprawę truskawki w Bielinach rozpoczęto już w latach 50-tych XX wieku. Początkowo uprawiano nie cieszącą się dużym popytem „kartoflankę”. Jednak już na początku lat 60-tych XX wieku wraz ze wzrostem zapotrzebowania na owoce miękkie zainteresowano się gminą Bieliny jako miejscem uprawy niemieckiej odmiany truskawki „Sengi-Sengany”. W 1960 roku Chłodnia – Kielce przystąpiła do organizacji własnej bazy surowcowej na terenie gminy Bieliny. Pierwszym krokiem było założenie 10 próbnych plantacji truskawek po 5 arów, które umieszczono na poletkach kilku bielińskich gospodarzy. Chłodnia zawarła z właścicielami plantacji umowy kontraktacyjne. Szybko okazało się, że użytej odmianie wyjątkowo dobrze sprzyja lokalny, bieliński mikroklimat, co więcej w uprawie tej mało wymagającej rośliny nie przeszkadzała niskiej jakości (V i VI klasa) gleba. Chłodne skalne podłoże przyczynia się do tego, iż okres dojrzewania i zbioru truskawki bielińskiej jest opóźniony od pozostałych regionów kraju o kilkanaście dni. Okres wegetacyjny trwa od 183 do 206 dni. Pomimo początkowych trudności i dużych wątpliwości, co do tego rodzaju uprawy, wraz z nadejściem obfitych zbiorów i wysokim popytem coraz większa liczba miejscowych gospodarzy przekonywała się do uprawy tego owocu. W miarę upływu czasu truskawka zdobywała większe znaczenie i szybko stała się motorem ekonomicznego rozwoju gminy. Zwiększanie się wielkości produkcji i powierzchni plantacji sprawiło, że okrzyknięto gminę Bieliny „zagłębiem truskawkowym”. Wielkość areału uprawy truskawki bielińskiej w niektórych okresach przekraczała 1000 hektarów. Obecnie wielkość areału upraw oscyluje w granicach 700 hektarów, przy czym powierzchnia poszczególnych plantacji wynosi od 0,10 ha do 1,5 ha. Liczby te doskonale obrazują jak ważną rolę odgrywa ona w życiu mieszkańców gminy, którzy utrzymują się z uprawy niewielkich pól. Dzięki przestawieniu produkcji rolnej z typowej na uprawę truskawki, cała gmina przeszła szereg korzystnych transformacji, powstały nowe domy, budynki gospodarcze i punkty skupu truskawki. Uprawa truskawki tak silnie wpłynęła na życie mieszkańców Bieliny, że trudno wyobrazić sobie współczesny krajobraz tego miejsca bez pól z równymi rzędami truskawek, które cieszą oko, gdy dojrzeją w sprzyjającym mikroklimacie gminy Bieliny. Powoli truskawka bielińska poczęła wkraczać w niemal wszystkie obszary życia gminy i jej mieszkańców. Stała się elementem życia kulturalnego i społecznego całej gminy. Ludowi poeci opiewali ją w wierszach, zespoły ludowe tworzyły o niej piosenki, a władze gminy wykorzystały popularność truskawki i zorganizowały imprezę „Dni Świętokrzyskiej Truskawki”, która od jedenastu lat wpisuje się w kalendarz imprez gminnych i przyciąga coraz większą rzeszę amatorów lokalnego specjału. Truskawka bielińska cieszy się niesłabnącą popularnością wśród konsumentów i przetwórców, którzy pomimo dużej konkurencji na rynku, zarówno ze strony rodzimych jak i zagranicznych producentów, nadal zabiegają o ten owoc. Popularność i wysoką renomę truskawka bielińska zawdzięcza przede wszystkim swoim wyjątkowym walorom smakowym i zapachowym, niepowtarzalnemu wybarwieniu, jędrności i soczystości. Konsumenci oraz producenci wskazują na główną cechę wyróżniającą truskawki bielińskiej, jaką jest delikatny kwaskowaty posmak.
+        </flavor>
+        <size>Skórka ma niepowtarzalną barwę od intensywnie czerwonej do ciemnoczerwonej z połyskiem. Ponadto na jej powierzchni widać zielonkawe, żółte lub czerwone maleńkie „pestki”. Miąższ jest intensywnie czerwony, dość równomiernie wybarwiony.</size>
+    </item>
+    <item>
+        <name>Kompot ze śliwki żniwki</name>
+        <form>W zależności od naczynia, w którym się znajduje.</form>
+        <color>Kolor kompotu żółty, słomkowy. Owoce śliwki lekko pomarańczowe.</color>
+        <appearance>Klarowny słomkowożółty napój z widocznymi całymi owocami śliwki.</appearance>
+        <consistency>Klarowna ciecz.</consistency>
+        <flavor>Słodki, lekko kwaskowaty posmak i aromat.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Śliwka żniwka lipowska</name>
+        <form>Eliptyczny, podłużny i zwężony na końcach.</form>
+        <color>Skórka złotożółta, pokryta białym nalotem, miąższ zielonożółty.</color>
+        <appearance>Małe, pokryte skórką owoce, na przekroju pestka otoczona mięsistym miąższem.</appearance>
+        <consistency>Owoc miękki, cienka skórka, miąższ łatwo odchodzący od pestki.</consistency>
+        <flavor>Słodki, lekko winny posmak i aromat.</flavor>
+        <size>Owoce ważą około 12-14 g.</size>
+    </item>
+    <item>
+        <name>Powidła ze śliwki żniwki</name>
+        <form>W zależności od naczynia, w którym się znajduje.</form>
+        <color>Kolor złoty do jasnobrązowego.</color>
+        <appearance>Jednolita gęsta masa z fragmentami skórki owoców.</appearance>
+        <consistency>Gęsta, lekko twarda masa.</consistency>
+        <flavor>Średnio słodki, mocno kwaskowaty.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Kwaki / brukiew / karpiel z Podbeskidzia</name>
+        <form>Zewnętrzny kształt korzenia owalny, na przekroju okrągły.</form>
+        <color>Barwa skórki zgrubiałego korzenia w części wystającej z ziemi szaro-zielona lub fioletowa, zaś w części zagłębionej w ziemi – żółta. Na przekroju kolor miąższu żółty lub biały w zależności od odmiany.</color>
+        <appearance>Duży, owalny, gruby korzeń o żółtym lub białym zabarwieniu.</appearance>
+        <consistency>Bardzo twardy.</consistency>
+        <flavor>Smak wyrazisty, ostry, gorzkawy, zapach charakterystyczny dla gatunku.</flavor>
+        <size>Długość korzenia do 25 cm. Szerokość 10-15 cm.</size>
+    </item>
+    <item>
+        <name>Jabłka żniwówki</name>
+        <form>Kulisty.</form>
+        <color>Skórka owocu słomkowo-zielona, w pełnej dojrzałości żółtawa. Miąższ kremowo-biały.</color>
+        <appearance>Drobne, kuliste owoce z cienką, prostą, lekko wystającą szypułką. Na przekroju widoczne gniazda nasienne.</appearance>
+        <consistency>Cienka, gładka skórka. Miąższ jędrny, nie rozpada się podczas gotowania.</consistency>
+        <flavor>Specyficzny kwaskowo-słodki smak. Zapach delikatny, kwaskowy.</flavor>
+        <size>Drobne owoce. Średnica poprzecznego przekroju owocu: 4-4,5 cm.</size>
+    </item>
+    <item>
+        <name>Bób / bober</name>
+        <form>Spłaszczone, owalne</form>
+        <color>Barwy najczęściej kremowobiałej, zielonej lub żółtej</color>
+        <appearance>Nasiona duże, spłaszczone; na przekroju miąższ</appearance>
+        <consistency>Twarda, gładka, lekka</consistency>
+        <flavor>Słony, słodki, gorzki, o wyraźnym zapachu</flavor>
+        <size>Długość 1-2 cm, szerokość 0,5 cm, grubość ok. 0,5 cm</size>
+    </item>
+    <item>
+        <name>Śląskie pieczki</name>
+        <form>Kawałki owoców, ćwiartki jabłek i gruszek, całe śliwki z pestkami</form>
+        <color>Barwa zależy od rodzajów owoców; pieczki mogą być czerwone, żółte, zielone, czarne – kolor śliwek zasuszonych</color>
+        <appearance>Suszone owoce, skórka pomarszczona, w przekroju zasuszony miąższ</appearance>
+        <consistency>Suszone owoce, są miękkie i delikatne</consistency>
+        <flavor>Słodki, owocowy smak i zapach owoców z nutką dymu</flavor>
+        <size>Wielkość 3-4 cm, zależy od wielkości owoców</size>
+    </item>
+    <item>
+        <name>Borówka / brusznica siewierska</name>
+        <form>Bordowy</form>
+        <color>Smak słodki z posmakiem kwaskowym; aromat charakterystyczny dla owocu borówki / brusznicy</color>
+        <appearance>Gęsta masa, widoczne drobne owoce borówki / brusznicy</appearance>
+        <consistency>Owoce (jagody) borówki / brusznicy zawierają sporo cukrów i kwasów organicznych, a niewiele związków azotowych. Zasobne są w fosforany i sole żelaza. Zawierają czerwony barwnik tzw. ideinę. Oprócz kwasów jabłkowego, cytrynowego oraz małych ilości winowego, borówki zawierają nieco kwasu benzoesowego. Ilość jego wynosi 1-2 g na 1 kg świeżej masy, nadaje on borówce dużą trwałość. Owoce można przechowywać nawet bez dodawania środków konserwujących. </consistency>
+        <flavor>Popularne w przeszłości owoce leśne stanowiły część pożywienia ludności. Wśród nich spotykana jest borówka / brusznica, zwana także borówką czerwoną, która występuje najczęściej w suchych lub świeżych borach, niezbyt zwartych, a także w zaroślach i na wrzosowiskach. Gorzej znosi ocienienie zaś jej występowanie jest oznaką zakwaszenia i wyjałowienia gleby. Kwitnie od maja do lipca, owocuje w sierpniu, rzadziej w lipcu. Jagoda jest początkowo biała, w miarę dojrzewania czerwienieje, poczynając od strony wystawionej na działanie słońca. W południowej i południowo-zachodniej części kraju po przerwie zakwita po raz drugi i owocuje we wrześniu, w październiku, a niekiedy także w listopadzie. Borówka ze względu na swoje walory smakowe i lecznicze wykorzystywana jest od wielu lat w kuchni i medycynie ludowej. Owoce borówki / brusznicy bogate w składniki mineralne zawierają sporo cukrów i kwasów organicznych, a niewiele związków azotowych. Są zasobne w witaminy z grupy: B1, B2, PP i C, fosforany, sole żelaza, zawierają też czerwony barwnik tzw. ideinę. Oprócz kwasów jabłkowego, cytrynowego oraz małych ilości winowego brusznice zawierają nieco kwasu benzoesowego. Ilości jego wynosi 1-2 g na 1 kg świeżej masy, nadaje on owocom dużą trwałość. Brusznice można przechowywać nawet bez dodawania środków konserwujących. Liście brusznicy działają moczopędnie, przeciwbiegunkowo i antyseptycznie, ściągająco, natomiast owoce działają regulująco na czynności trawienne, stosowane raczej jako środek dietetyczny (Jadalne owoce leśne, prof. dr Wiesław Grochowski, Warszawa 1988 r.). Książki kulinarne podają wiele sposobów wykorzystania borówki / brusznicy w żywieniu. Literatura dawna jak choćby Kucharka litewska autorstwa Wincenty Zawadzkiej (wydanie oparte na wydaniu czternastym z 1938 r.) podaje szczegółowy opis metody produkcji brusznicy. W rozdziale Ogólne uwagi o smażeniu konfitur, galaret i soków czytamy (s. 310): Jagody lub owoce, z których mają się smażyć konfitury, powinny być nieprzejrzane i świeże, zbierane tego dnia, w którym się mają smażyć i w dzień suchy a pogodny. Zaczynając smażyć konfitury, trzeba dopóty gotować na dużym ogniu, póki nie zawrą, potem dosmażać na powolnym ogniu Szumować najlepiej, skoro piana po mocnym zagotowaniu opadnie, wtenczas najłatwiej odwróconą łyżką da się zdejmować. Smażyć jagody trzeba w szerokiej mosiężnej (z przyprawioną na ten cel rączką) miedniczce i nie mieszać łyżką, lecz tylko potrząsać miednicą, aby ulep jednostajnie obejmował jagody i wszystkie jednocześnie się smażyły. (…) jeżeli jagody są przezroczyste, a ulep gęstawy, klarowny i obstający koło łyżki, natenczas przelać konfitury do naczynia fajansowego, pozostawić w chłodnym miejscu, a nazajutrz do suchego słoja, przykryć krążkiem papieru, namoczonym w araku, obwiązać woskowym i klejowym czystym papierem na wierzch i pozostawić w chłodnym miejscu. Maria Ochorowicz-Montanowa w Uniwersalnej Książce Kulinarnej z 1920 i 1926 r. podaje przepis na tzw. galaretkę z borówek (s. 659). Również Emilia Kołder w Kuchni Śląskiej (Wydawnictwo profil, Ostrawa 1972 r., s. 276) podaje sposób przyrządzenia brusznicy. W czystych i nieskażonych lasach siewierskich borówka/ brusznica od lat zbierana jest przez miejscową ludność i wykorzystywana jest do wytwarzania domowych przetworów. Brusznica siewierska wytwarzana jest zgodnie ze starą rodzinną recepturą, przekazywaną z pokolenia na pokolenie. Z wywiadu etnograficznego przeprowadzonego z mieszkańcami Siewierza i pobliskich miejscowości wynika, że borówka znana jest na tym terenie od wielu lat i stanowi nieodłączny dodatek wielu siewierskich specjałów. Podawana była i jest do dzisiaj do potraw z gęsi, kaczek oraz innych drobiowych smakołyków. Uważa się, że borówka nie tylko podnosi walory smakowe gęsiny czy potraw z kaczki, ale ze względu na zawarte substancje lecznicze ułatwia trawienie tłustego mięsa. Paweł Łukasik – rodowity siewierzanin wspomina borówkę: Była zebrana tutaj w naszych lasach siewierskich, była odpowiednio przyrządzona, (…) byłą jako dodatek, dodatek właściwie do tej gąski, nawet dodatek do tych żołądeczków czy dodatek do wątróbek (…). Inny mieszkaniec Siewierza – Aleksy Kocot wychwala niezapomniany smak brusznicy, smak dzieciństwa i młodość: To typowy (…) smak, którego się nie zapomina i tak jak człowiek przypomina sobie zapach pomarańczy, którą kiedyś trudno było zdobyć to i tak samo borówka miała specyficzny smak i do tej pory ma charakterystyczny smak, ale nie wiem, dlaczego była podawana tylko z tą gęsiną, jakoś tak wyjątkowo (…) tworzą taką symbiozę razem. Borówka / brusznica siewierska ma postać gęstej bordowej masy z widocznymi owocami, charakteryzuje się specyficznym smakiem i zapachem.</flavor>
+        <size>Masa gęsta, miękka w dotyku</size>
+    </item>
+    <item>
+        <name>Dynia w winie po cieszyńsku</name>
+        <form>Kostki karbowane około 2 cm</form>
+        <color>Kolor od różowego do bordowego</color>
+        <appearance>Różowe kostki karbowane o grubości ok. 2 cm i 3 cm długości; na przekroju powierzchnia gładka koloru różowego</appearance>
+        <consistency>Miękka, lepka</consistency>
+        <flavor>Lekko kwaskowaty, zapach z aromatem octowym</flavor>
+        <size>Długość 3 cm, grubość ok. 2 cm</size>
+    </item>
+    <item>
+        <name>Cieszyńskie pieczoki</name>
+        <form>Duże bulwy ziemniaka.</form>
+        <color>Na zewnątrz ziemniak jest koloru czarnego, „spalony”, z szarą warstwą popiołu, wewnątrz – żółty, miękki miąższ.</color>
+        <appearance>Ziemniak pieczony w żarze ogniska o czarnej skórce, oprószony szarym popiołem. Na przekroju kolor ziemniaka zółty.</appearance>
+        <consistency>Pieczok wyciągnięty z żaru ogniska jest gorący i kruchy.</consistency>
+        <flavor>Smak pieczoka wyjętego z żaru ogniska jest słodki z zapachem dymu ogniska.</flavor>
+        <size>Około 10 cm długości i 6-7 cm szerokości.</size>
+    </item>
+    <item>
+        <name>Cieszyńska dynia</name>
+        <form>Kuliste lub owalne.</form>
+        <color>Żółta do pomarańczowej.</color>
+        <appearance>W zależności od odmiany – duże kule. Na przekroju żółty miąższ z widocznymi dużymi pestkami.</appearance>
+        <consistency>Skórka twarda, chropowata, miąższ miękki, soczysty i wilgotny.</consistency>
+        <flavor>Swoisty charakterystyczny dla warzyw dyniowatych.</flavor>
+        <size>W zależności od odmiany.</size>
+    </item>
+    <item>
+        <name>Marmelada z dyni po cieszyńsku</name>
+        <form>W zależności od naczynia.</form>
+        <color>Barwa od ciemnopomarańczowej do jasnobrązowej.</color>
+        <appearance>Gęsta jednolita półprzezroczysta masa.</appearance>
+        <consistency>Gęsta i kleista masa.</consistency>
+        <flavor>Smak słodki, cierpki z wyczuwalnym zapachem imbiru oraz przypraw korzennych.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Konfitura z truskawek kaszubskich</name>
+        <form>Przyjmuje kształt naczynia, w którym się znajduje.</form>
+        <color>Ciemnoczerwona lub bordowa.</color>
+        <appearance>Gęsta, lepka masa z widocznymi kawałkami truskawek.</appearance>
+        <consistency>Gęsta, lepka.</consistency>
+        <flavor>Słodki o aromacie truskawkowym.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Kociewska bania / Dynia po Królewsku</name>
+        <form>Prostokątny</form>
+        <color>Miodowa</color>
+        <appearance>Prostokątne paski żółtej dyni ułożone w zalewie miodowo-octowej</appearance>
+        <consistency>Miękka, lepka</consistency>
+        <flavor>Smak słodki z wyczuwalnym aromatem octowo-miodowym</flavor>
+        <size>Prostokąty o wymiarach 2 x 10 cm</size>
+    </item>
+    <item>
+        <name>Galaretka porzeczkowa (galaretka ze świętojonki)</name>
+        <form>Przyjmuje kształt naczynia.</form>
+        <color>Czerwona.</color>
+        <appearance>Czerwona galaretka.</appearance>
+        <consistency>Kleista, jednorodna galaretowata masa, po schłodzeniu konsystencja stała.</consistency>
+        <flavor>Smak słodko-kwaśny, zapach winny.</flavor>
+        <size>W zależności od naczynia, najczęściej słoiki o pojemności 200 g.</size>
+    </item>
+    <item>
+        <name>Żurawina z Kaszub ucierana na surowo</name>
+        <form>W zależności od naczynia, w którym jest przechowywana.</form>
+        <color>Ciemnowiśniowa.</color>
+        <appearance>Ciemnowiśniowa galaretowata masa z widocznymi drobnymi ziarenkami w jaśniejszym kolorze.</appearance>
+        <consistency>Galaretowata, gęsta, miękka, kleista.</consistency>
+        <flavor>Smak kwaśno-słodki, lekko cierpki, zapach winny.</flavor>
+        <size>W zależności od naczynia, najczęściej słoik szklany o pojemności ok. 150 ml.</size>
+    </item>
+    <item>
+        <name>Gruszka gdańczonka w occie</name>
+        <form>Nieregularny.</form>
+        <color>Beżowo-różowa.</color>
+        <appearance>Ćwiartki owoców bez skórki i gniazd nasiennych.</appearance>
+        <consistency>Stała, średnio twarda, lepka, mokra.</consistency>
+        <flavor>Posmak słodko-kwaśny, lekko octowy, owocowy typowy dla gruszki.</flavor>
+        <size>W zależności od wielkości owocu 4-6 cm x 1-2 cm.</size>
+    </item>
+    <item>
+        <name>Jabłko czernińskie</name>
+        <form>Kulisto-stożkowy, regularny.</form>
+        <color>Słomkowo-żółtawa z silnym karmelowym rumieńcem, niekiedy ze smużkami.</color>
+        <appearance>Jabłko w gładkiej skórce o białym miąższu.</appearance>
+        <consistency>Miąższ biały, ściśnięty, soczysty, w dotyku lekko mięsisty.</consistency>
+        <flavor>Lekko kwaśny i aromatyczny.</flavor>
+        <size>Owoc średniej wielkości lub mały.</size>
+    </item>
+    <item>
+        <name>Powiślańska śliwka w occie</name>
+        <form>Kształt owocu owalny o gładkiej, błyszczącej, lekko pomarszczonej skórce.</form>
+        <color>Barwa zewnętrzna – brązowa z odcieniem fioletu. Na przekroju od ciemnoróżowej do fioletowej.</color>
+        <appearance>Charakterystyczny dla owocu śliwki węgierki zwykłej.</appearance>
+        <consistency>Sprężysta.</consistency>
+        <flavor>Charakterystyczny dla śliwki w occie, z wyraźnym posmakiem octu, goździków i imbiru.</flavor>
+        <size>Od 2,5 cm do 5 cm długości i około 2,5 cm średnicy.</size>
+    </item>
+    <item>
+        <name>Powidła śliwkowe z Doliny Dolnej Wisły</name>
+        <form>Plastyczna masa przyjmująca kształt naczynia </form>
+        <color>Ciemny brąz z odcieniem bordowym, na przekroju jaśniejszy, z widocznymi fragmentami fioletowych skórek owoców śliwy </color>
+        <appearance>Gęsta masa owocowa z fragmentami skórek owoców, o powierzchni lśniącej, bardziej zestalonej </appearance>
+        <consistency>Gęsta masa, w przypadku konserwacji przez zapiekanie – o twardej, lśniącej powierzchni </consistency>
+        <flavor>Smak lekko słodki, kwaskowaty, z wyczuwalną delikatną goryczką w przypadku wysmażania śliwek z pestkami. Zapach swoisty smażonej śliwki, z lekkim aromatem dymu i pestki </flavor>
+        <size>W zależności od wykorzystanego naczynia</size>
+    </item>
+    <item>
+        <name>Truskawka kaszubska lub kaszëbskô malëna</name>
+        <form>Truskawka posiada dość zmienny kształt: kulisto-stożkowaty lub kulisto-nerkowaty. Przekrój podłużny ma kształt sercowaty, poprzeczny – okrągły. Kształt musi być jednorodny, bez żadnych nieprawidłowości.</form>
+        <color>Barwa skórki owocu ciemnoczerwona wyrównana na całej powierzchni, lekko błyszcząca. Natomiast po przekrojeniu intensywnie czerwona, równomiernie wybarwiona. - powłoka owocu musi być lśniąca - kolor musi być intensywno czerwony przy poziomie wybarwienia co najmniej 80%</color>
+        <appearance>Owoce truskawki dojrzałe i gotowe do spożycia lub przetworzenia są czerwone, miękkie, szypułka-kielich łatwo odchodzi od owocu. Pierwsze owoce są duże lub średnie. Miąższ owocu posiada intensywnie czerwoną barwę. Owoce są jędrne, lekko twardawe, a zarazem soczyste. Na powierzchni truskawki znajdują się orzeszki, a wewnątrz nich nasiona. Orzeszki te są równomiernie zagłębione w miąższu owocu rzekomego i mają barwę od złotożółtej do ciemnoczerwonej. Kielich złożony z małych, wąskich działek, przylegających do owocu. Przykielichowa część owocu jest zaokrąglona i wyrównana. W miąższu znajduje się komora powietrzna.</appearance>
+        <consistency>Owoce jędrne, lekko twardawe a zarazem soczyste. Truskawka musi być jędrna w dotyku oraz nie może mieć śladu zgnilizny ani oznak choroby. Owoce są pokryte jedwabistą, bardzo cienką skórką, na której widoczne i wyczuwalne są pestki.</consistency>
+        <flavor>Truskawka jest słodka w smaku. Posiada specyficzny intensywny, przyjemny aromat.</flavor>
+        <size>Pierwsze owoce są duże lub średnie. Przeciętna masa owocu wynosi 6,0-8,0 g. Średnica owocu w jej najszerszym miejscu wynosi 1,5-3 cm.</size>
+    </item>
+    <item>
+        <name>Pikle kociewskie</name>
+        <form>Podłużny, na przekroju prostokątne</form>
+        <color>Jasnożółty</color>
+        <appearance>Podłużne żółtawe kawałki ogórka bez skórki</appearance>
+        <consistency>Lekko sprężyste</consistency>
+        <flavor>Słodko-kwaśny, aromat przypraw</flavor>
+        <size>Długość 6 cm, szerokość 2 cm</size>
+    </item>
+    <item>
+        <name>Żurawina z jabłkiem i chrzanem</name>
+        <form>Masa.</form>
+        <color>Barwa różowo-czerwona.</color>
+        <appearance>Miękka masa owocowa, widoczne okrągłe owoce żurawiny.</appearance>
+        <consistency>Średnio-gęsta konsystencja, miękka w dotyku.</consistency>
+        <flavor>Smak i aromat właściwy dla żurawiny, lekko-kwaśny, średnio ostry.</flavor>
+        <size>Zależnie od potrzeb.</size>
+    </item>
+    <item>
+        <name>Borówka z gruszką po pomorsku</name>
+        <form>Gęsta masa.</form>
+        <color>Ciemnoczerwona.</color>
+        <appearance>Widoczne kawałki owoców w roztartej gęstej masie.</appearance>
+        <consistency>Gęsta konsystencja, miękka i soczysta w dotyku.</consistency>
+        <flavor>Smak słodko-kwaśny z lekką goryczką.</flavor>
+        <size>W zależności od potrzeb.</size>
+    </item>
+    <item>
+        <name>Konfitura borówkowa z Borów Tucholskich</name>
+        <form>W zależności od naczynia.</form>
+        <color>Od ciemnoczerwonego do bordowego, szklisty.</color>
+        <appearance>Gęsta masa z widocznymi kawałkami całych owoców borówki czerwonej.</appearance>
+        <consistency>Gęsta, lepka masa, miękka w dotyku.</consistency>
+        <flavor>Smak słodki, lekko gorzkawo-kwaskowaty, zapach owoców borówki.</flavor>
+        <size>W zależności od potrzeb.</size>
+    </item>
+    <item>
+        <name>Kapusta z beczki kiszona w główce</name>
+        <form>Owalny.</form>
+        <color>Słomkowo-zielona z żółtym odcieniem.</color>
+        <appearance>Cała główka kapusty bez uszkodzeń mechanicznych i plam. W przekroju zwarty wachlarz jędrnych liści kapusty.</appearance>
+        <consistency>Kapusta jędrna i twarda w dotyku.</consistency>
+        <flavor>Charakterystyczny dla kapusty ukwaszonej z wyczuwalnym słonym i kwaśnym smakiem.</flavor>
+        <size>Główka kapusty średniej wielkości od 1,5 kg do 3 kg, średnica od 15 cm do 25 cm.</size>
+    </item>
+    <item>
+        <name>Czarna jagoda we własnym soku</name>
+        <form>Kształt owocu – okrągły.</form>
+        <color>Zewnętrzna barwa jagody jest czarna lub niebiesko-granatowa. Miąższ zaś ma kolor niebiesko-granatowy z odcieniem czerwonego.</color>
+        <appearance>Okrągłe ciemne jagody zatopione w soku.</appearance>
+        <consistency>Konsystencja płynna podobna do soku z jagodami. Jagody miękkie i soczyste.</consistency>
+        <flavor>Smak lekko słodki o intensywnym aromatycznym zapachu.</flavor>
+        <size>Jagoda ma średnio 0,5 cm.</size>
+    </item>
+    <item>
+        <name>Kruszewski Ogórek Herbowy</name>
+        <form>Owoce są proste, walcowate lub cylindryczne. </form>
+        <color>W zależności od odmiany ogórka owoce z zewnątrz są zielone lub jasnozielone ze smugami lub widocznymi paseczkami. </color>
+        <appearance>Kruszewski Ogórek Herbowy jest gładki i błyszczący. Zawiera zwięzły miąższ. </appearance>
+        <consistency>Kruszewski Ogórek Herbowy jest gładki, twardy, jędrny. </consistency>
+        <flavor>Kruszewski Ogórek Herbowy jest chrupiący i lekko kwaśny. Wyróżnia się aromatycznym zapachem kopru i czosnku. </flavor>
+        <size>Ogórki przeznaczone do kiszenia mają długość od 5 do15 cm. </size>
+    </item>
+    <item>
+        <name>Ogórki Kwaszone „Narwiańskie”</name>
+        <form>Ogórek posiada kształt prosty, cylindryczny. Jego komora nasienna jest mała, bez pustych przestrzeni. Jego średnica nie może być większa od połowy długości. </form>
+        <color>Jego barwa jest oliwkowozielona o różnych odcieniach, na przekroju nieco jaśniejsza. </color>
+        <appearance>Wygląd ogórka kwaszonego jest taki sam, jak surowca użytego do jego wytworzenia. Ma gładką powierzchnię z nielicznymi i niewielkimi brodawkami. Podczas procesu kiszenia następuje zmiana barwy.
+        </appearance>
+        <consistency>Smak jest charakterystyczny dla ogórków kwaszonych, z wyczuwalnym smakiem i zapachem przypraw, szczególnie kopru i czosnku, bez obcych posmaków i zapachów. </consistency>
+        <flavor>Do produkcji Ogórków Kwaszonych „Narwiańskich” wykorzystuje się ogórki wyprodukowane w otulinie Narwiańskiego Parku Narodowego, na czystych ekologicznie terenach nie skażonych przemysłem i wielkomiejską cywilizacją. Dolina Narwi charakteryzuje się specyficznym mikroklimatem, który wpływa na oryginalne walory smakowe uprawianych ogórków. Uprawa ogórków odbywa się na terenie następujących gmin: Choroszcz, Kobylin Borzymy, Sokoły, Łapy, Suraż, Turośń Kościelna i Tykocin. Produkcja prowadzona jest metodą tradycyjną, to znaczy używa się nawozów organicznych z niewielkim dodatkiem nawozów sztucznych. Do produkcji surowca używa się odmian odpornych lub o dużej tolerancji na choroby po to, aby w jak najmniejszych ilościach stosować środki ochrony roślin. Duża ilość nawozów sztucznych oraz środków ochrony wpływa niekorzystnie na jakość ogórków kwaszonych.</flavor>
+        <size>Długość od 6 do 15 cm., zaś jego średnica od 2 do 5 cm.</size>
+    </item>
+    <item>
+        <name>Kruszewska kapusta kiszona</name>
+        <form>Kapuściane strużyny mają kształt podłużnych, nieregularnych nitek.</form>
+        <color>Kiszona kapusta ma kolor biały z lekkim odcieniem kremowożółtym, w zależności od użytej odmiany kapusty oraz ilości dodanej marchwi.</color>
+        <appearance>Kapusta po ukiszeniu ma postać podłużnych strużyn, które powstały podczas krojenia (szatkowania) główek kapusty białej. Strużyny widoczne są w lekko kremowym kwasie kapuścianym.</appearance>
+        <consistency>Kapusta kiszona jest chrupka i jędrna. Nie można jej „zdusić ręką”.</consistency>
+        <flavor>Kapusta świeżo ukiszona tzw. „trzydniówka” ma smak winno słodki, lekko kwaśny. Przechowywana dłużej jest kwaskowa, ma zapach charakterystyczny dla kiszonej kapusty. Nie zawiera żadnych posmaków ani obcych zapachów.</flavor>
+        <size>Długość strużyn dochodzi do 20 centymetrów, ich przekrój zależy od rodzaju narzędzi do szatkowania. Szatkowane ręcznie strużyny są grubsze (około 0,6 cm), szatkowane szatkownicą węższe (około 0,3-0,4 cm).</size>
+    </item>
+    <item>
+        <name>Powidła śliwkowe</name>
+        <form>W zależności od naczynia.</form>
+        <color>Brunatna z odcieniem czerwonym.</color>
+        <appearance>Gęsta masa z śliwek węgierek.</appearance>
+        <consistency>Gęsta masa.</consistency>
+        <flavor>Słodko-kwaśny, charakterystyczny dla powideł z posmakiem i aromatem karmelu.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Nadbużańska kawa żołędziówka</name>
+        <form>Ciemnobrązowa</form>
+        <color>Ostry, aromatyczny i gorzkawy smak i zapach charakterystyczny dla użytych składników</color>
+        <appearance>Brązowy proszek przypominający zmieloną kawę</appearance>
+        <consistency>Zawartość wody nie więcej niż 12%, zawartość popiołu nie więcej niż 8%, zanieczyszczenia organiczne 1%, zanieczyszczenia mineralne 0,5%</consistency>
+        <flavor>Sporządzanie kawy z żołędzi na obszarach nadbużańskich ma wielowiekową tradycję. Mieszkańcy do dziś dysponują wiedzą zaczerpniętą od swych przodków. Napój ten powszechnie sporządzano jeszcze w latach przed II wojną światową. Ze względu na swe zdrowotne właściwości wzmianki o kawie żołędziowej znajdują się w literaturze wielu polskich pisarzy. Jednym z przykładów jest „Zielnik Ekonomiczno-Techniczny” z 1845 r. autorstwa Józefa Geralda Wyżyckiego, gdzie znajdują się następujące informacje: „Żołędzie wyłuszczone upalone i zmełte, dają napój podobny do kawy, szczególnie skuteczny dla dzieci skrofulicznych, mających wydęty żołądek i zatkanie gruczołów brzuchowych; wzmacniając systemat limfatyczny i trzewie…”. Najistotniejszym potwierdzeniem tradycji produktu oraz jego związku z nadbużańskim Podlasiem można odnaleźć w utworach u ks. Krzysztofa Kluka, który zachwycał się kawą żołędziową w swym dziele „Dykcynarz roślinny – przedrukowany w Warszawie w Drukarni Xięży Pierów” [za: przedruk z 1786 r.]: Są przecież [żołędzie] użyteczne i zdrowe dla ludzi zażywając palonych na kawę następującym sposobem: a zaręczam z doświadczenia, że i pieszczone usta od właściwey kawy nie łatwo rozeznają. Dojrzałej i nierobaczywej żołędzi nazbierawszy, zdejmie się z nich łupina i oskrobie skóreczka: i płasko na przykład na blachach, rozłożone, osuszają się w piecu wolnie ciepłym. W czasie suszenia występuje z nich pot, który w sobie mógł mieć iaką szkodliwość: susząc więc kilkakrotnie się przemieszczają. Ususzane schowają się. Do zażycia dla twardości utłuką się pierwej, pierwej potem umielą i gotują z czwartą częścią, a najwięcej trzecią pospolitej kawy. Autor powyższego dzieła był w sposób szczególny związany z ziemią nadbużańską, kształcąc się w Drohiczynie, później zaś będąc proboszczem w Ciechanowcu. Dzięki możliwościom korzystania z bogatej biblioteki i gabinetu przyrodniczego w Siemiatyczach ks. Kluk dokonał przełomu w polskich naukach przyrodniczych i rolniczych. Nadbużańska kawa to zdrowy, posilny i wzmacniający napój, dający poczucie sytości, wzmacniający żołądek, wątrobę i śledzionę, likwidujący zaburzenia żołądkowe.</flavor>
+        <size>Sypki proszek</size>
+    </item>
+    <item>
+        <name>Pruchnicka suszona śliwka węgierka</name>
+        <form>Nieregularny, zbliżony do owalnego.</form>
+        <color>Skórka owocu przyjmuje barwę od ciemno granatowej do czarnej. Na przekroju owoc ma barwę ciemno czerwoną.</color>
+        <appearance>Owoc pomarszczony.</appearance>
+        <consistency>Miękka o elastycznym, giętkim miąższu.</consistency>
+        <flavor>Charakterystyczny dla suszonej śliwki.</flavor>
+        <size>W zależności od wielkości suszonego owocu waga wynosi 2-3 g, długość około 3 cm oraz szerokość około 2 cm.</size>
+    </item>
+    <item>
+        <name>Suszone plasterki jabłek z Pruchnika</name>
+        <form>W zależności od przygotowania owocu do suszenia kształt: krajanki lub „talarka”.</form>
+        <color>Wysuszony owoc przyjmuje barwę od żółtej do jasno brązowo-cynamonowej.</color>
+        <appearance>Owoc pomarszczony.</appearance>
+        <consistency>W zależności od ilości odprowadzonej wody: suszona lub mocno suszona.</consistency>
+        <flavor>Charakterystyczny dla suszonego jabłka.</flavor>
+        <size>W zależności od wielkości przygotowanego owocu do suszenia: szerokość ok. 3 cm, długość ok. 6 cm.</size>
+    </item>
+    <item>
+        <name>Gruszki w syropie miodowym</name>
+        <form>Kształt gruszki.</form>
+        <color>Zewnętrzna barwa ciemno-brązowa błyszcząca, na przekroju jasno-brązowa matowa.</color>
+        <appearance>Gruszki pomarszczone.</appearance>
+        <consistency>Sprężysta.</consistency>
+        <flavor>Smak słodki, zapach charakterystyczny dla gruszki.</flavor>
+        <size>Wysokość całych gruszek 7 cm x 4 cm (w najszerszym miejscu), ćwiartki – 7-5 cm x 2 cm.</size>
+    </item>
+    <item>
+        <name>Pruchnicka gruszka suszona</name>
+        <form>W zależności od przygotowania owocu do suszenia kształt krajanki lub „talarka”.</form>
+        <color>Owoc po wysuszeniu przyjmuje barwę jasnego beżu.</color>
+        <appearance>Owoc pomarszczony.</appearance>
+        <consistency>W zależności od ilości odprowadzonej wody konsystencja suszona lub mocno suszona.</consistency>
+        <flavor>Charakterystyczne dla suszonej gruszki.</flavor>
+        <size>W zależności od wielkości przygotowanego owocu do suszenia około 1 g. W zależności od wielkości owocu jego szerokość wynosi około 3 cm, zaś długość około 7 cm.</size>
+    </item>
+    <item>
+        <name>Dereń kiszony podkarpacki</name>
+        <form>Elipsoidalny, przekrój poprzeczny okrągły, podłużny elipsoidalny, wewnątrz wydłużona pestka.</form>
+        <color>Oliwkowa, żółta, zielona do bladoróżowej.</color>
+        <appearance>Koloru od jasnozielonego do oliwkowego; na przekroju – od jasnożółtego do zielonego.</appearance>
+        <consistency>Zwarty twardy miąższ.</consistency>
+        <flavor>Kwaśno-słony, bardzo zbliżony do oliwek, wyczuwalny aromat przypraw.</flavor>
+        <size>Długość od 1,5-3 cm.</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone z Handzlówki</name>
+        <form>Kształt ogórków jest cylindryczny, prosty.</form>
+        <color>Barwa od jasno zielonej do ciemno zielonej.</color>
+        <appearance>Gładki o błyszczącej skórce i zwięzłym miąższu.</appearance>
+        <consistency>Chrupiąca.</consistency>
+        <flavor>Smak lekko kwaśny o zapachu kopru i czosnku.</flavor>
+        <size>Od 5 cm do 16 cm długości. Średnica od 3 cm do 5 cm.</size>
+    </item>
+    <item>
+        <name>Powidło galicyjskie z kotła</name>
+        <form>Masa plastyczna.</form>
+        <color>Gęsta masa, dobrze zestalona z fragmentami miąższu i skórek owocu, przy zapiekaniu tworzy się twarda lśniąca powierzchnia.</color>
+        <appearance>Gęsta lśniąca masa z widocznymi fragmentami miąższu i skórki.</appearance>
+        <consistency>Śliwkowo winny z zachowanym zapachem smażonej śliwki i nieznacznym aromatem dymu i pestki.</consistency>
+        <flavor>Husów położony jest w południowej części powiatu łańcuckiego. Miejscowość otoczona jest z trzech stron lasami i stanowi pod tym względem wyjątek wśród podłańcuckich miejscowości. Jest to zarazem najwyżej położona miejscowość powiatu łańcuckiego. Na przełomie XIX i XX wieku na podłańcuckiej wsi nastąpił bujny rozwój chłopskiej spółdzielczości. W najbliższym sąsiedztwie Husowa zaczęły powstawać kółka rolnicze (najczęściej w Albigowej, Handzlówce i Markowej), sklepy kółkowe, spółki mleczarskie, spółki pożyczkowe oraz inne formy społecznej organizacji. Na długo przed powstaniem kółek rolniczych działały dwie ziemiańskie organizacje rolnicze: Galicyjskie Towarzystwo Gospodarskie z siedzibą we Lwowie oraz Krakowskie Towarzystwo Rolnicze. Ich celem było szerzenie postępu w rolnictwie, ogrodnictwie i leśnictwie. Husów przez długi czas powstawał w cieniu Handzlówki i Albigowej, które uchodziły wówczas za wzór do naśladowania. Husów należy do wsi rolniczych o rozdrobnionych gospodarstwach rolnych. Obszar całej miejscowości jest włączony w całość Hyżenieńsko-Gwoźnickiego obszaru chronionego krajobrazu. Nieodłącznym elementem krajobrazu Husowa są liczne sady. Na przełomie XX wieku pojawili się na wsi propagatorzy sadownictwa, m.in. Ks. P. Wene i kierownik Szkoły J. Karakulski. Jednak postęp nastąpił dopiero po I wojnie światowej, gdy Husowscy gospodarze na przykładzie swych sąsiadów z Handzlówki i Albigowej stwierdzili, że sadownictwo może przynosić zyski. Dużą rolę po II wojnie światowej odegrała działalność I. Błaśniewicza – popularyzatora sadownictwa, która zaowocowała powstaniem i nasadzeniem licznych sadów śliwkowych i jabłoniowych. Z przekazów historycznych dowiadujemy się o życiu galicyjskiej ludności. Chłop poeta z Husowa, Jan Rak (1830-1910) pisze: „na obiad bywała kapusta, na wieczerzę resztki pozostałe po obiedzie lub strawa nie solona z śliwowego sadu”. W innym z wierszy pisze: „Żyj zdrowo i długo wesoło, mile szczęśliwie abyś nie znalazł raka w żadnym jabłku i śliwie”. Do wysmażenia używano miedzianych kociołków i szerokich mis, które przekazywane były kolejnym pokoleniom domowników. Powidła smażono na paleniskach w domostwach, a co dorodniejsze suszono w piecach po wypieku chleba. Późniejszy okres w latach 50-60-tych XX wieku przyniósł już pewne zmiany. Wieś jako wspólnota nabyła duży miedziany kocioł. Kocioł ten wędrował pomiędzy domostwami i właśnie w nim wysmażano powidło. Ze względu na dużą pojemność kotła często dwie do trzech rodzin łączyły się i wspólnie smażyły powidła. Doskonale wysmażone powidło musiało być gęste, lśniące i pachnące. Przechowywano je przez wiele miesięcy w kamionkowych lub glinianych garnkach. Często zapiekano je w tych naczyniach w piecu chlebowym. Tworzyła się wówczas lśniąca skórka chroniąca przed zepsuciem. Powidło smażono zazwyczaj bez dodatku cukru. Sady śliwkowe dostarczały śliwek, a powidła w zależności od upodobań czy zamożności gospodarzy spożywano albo więcej lub mniej. Smażenie powideł nie kończyło się tylko do samego Husowa, było też tradycją w okolicznych miejscowościach, takich jak Albigowa, Markowa, Handzlówka w tzw. Galicji. Nigdy nie rozwijało się do dużej skali sprzedaży, lecz służyło na zaopatrzenie gospodarstwa w przetwory zimowe. Wspominano o tym nawet w przyśpiewkach przy okazji dożynek wiejskich: „Prezeska Janina z mężem jedno spółka ranczo wystawili niedaleko Wójta jabłka śliwy smażą i nic nie warzą” (fragment przyśpiewki przygotowanej przez E. Krauz – Wójta gminy).
+        </flavor>
+        <size>Od ciemnego brązu do bordowego, na przekroju koralowa.</size>
+    </item>
+    <item>
+        <name>Jabłka odmiany Berlepsch, znane też pod nazwą niemiecką Goldrenette Freiherr von Berlepsch, Roter Berlepsch</name>
+        <form>Owoc kulisty, lekko spłaszczony, symetryczny. Zagłębienie kielichowe szerokie. Szypułka cienka i krótka, zagłębienie szypułkowe wąskie, niezbyt głębokie, lekko ordzawione.
+        </form>
+        <color>Skórka zielonożółta z krwistoczerwonym rumieńcem na powierzchni prawie całego owocu. Miąższ białokremowy, pod skórką zabarwiony na różowo. </color>
+        <appearance>Jabłko małe, kuliste lekko spłaszczone o pięciu wyraźnych żebrach wokół kielicha. Skórka krwistoczerwona prawie na całej powierzchni owocu, lekko szorstka. Miąższ biały, luźny, zaróżowiony pod skórką.
+        </appearance>
+        <consistency>Miąższ dość ścisły, kruchy, soczysty. </consistency>
+        <flavor>Smak winny. Zapach świeży, aromatyczny. </flavor>
+        <size>Jabłko małe o średnicy do 6 cm. </size>
+    </item>
+    <item>
+        <name>Kompot z kwity</name>
+        <form>Pokrojone w plastry lub kostkę owoce pigwy (kwity).</form>
+        <color>Owoce od żółtej przez łososiową do jasnoczerwonej, w zależności od długości czasu gotowania. Sok jasny, klarowny.</color>
+        <appearance>Ugotowane kawałki owoców pigwy (kwity) zalane sokiem.</appearance>
+        <consistency>Cząstki owoców miękkie, sok – gęsty, ciekły.</consistency>
+        <flavor>Słodki, bardzo aromatyczny, zapach charakterystyczny dla pigwy</flavor>
+        <size>Plastry owoców o grubości 1-2 cm lub kostka o wymiarach około 2 cm.</size>
+    </item>
+    <item>
+        <name>Ogórkowe pikle</name>
+        <form>Nieregularny, zbliżony do prostokąta.</form>
+        <color>Jasnożółta.</color>
+        <appearance>Podłużne kawałki ogórka bez skórki i miąższu.</appearance>
+        <consistency>Lekko sprężysta.</consistency>
+        <flavor>Słodko-kwaśny z aromatem różnych przypraw.</flavor>
+        <size>Kawałki o wymiarach około 1 cm x 2 cm.</size>
+    </item>
+    <item>
+        <name>Jabłka odmiany Wealthy</name>
+        <form>Owoc kulisty, lekko spłaszczony. Komory nasienne duże, otwarte. Nasiona duże, wydłużone. </form>
+        <color>Skórka zielonożółta z intensywnym karminowym rozmytym rumieńcem z ciemniejszymi smużkami i jaśniejszymi cętkami. Miąższ biały, pod skórką zabarwiony na różowo. </color>
+        <appearance>Jabłko średniej wielkości, kuliste. Skórka cienka, błyszcząca, zielonożółta z silnym karminowym rumieńcem z prążkami i cętkami prawie na całej powierzchni owocu. Miąższ biały, pod skórką lekko różowy. </appearance>
+        <consistency>Miąższ ścisły, kruchy, bardzo soczysty i delikatny.</consistency>
+        <flavor>Słodki z lekką winną nutą, aromatyczny.
+        </flavor>
+        <size>Jabłko średnie o średnicy do 7 cm. </size>
+    </item>
+    <item>
+        <name>Stara odmiana jabłoni Königin</name>
+        <form>Owoc kulisty, lekko spłaszczony od strony kielicha. Zagłębienie szypułkowe i kielichowe szerokie, mocno wcinające się w owoc, symetryczne. Komory nasienne niewielkie o cebulowym kształcie. Nasiona małe owalne. </form>
+        <color>Skórka zielonkawożółta, pokryta woskowym nalotem, przechodząca w żółtą w miarę dojrzewania. Krwistoczerwony prążkowany rumieniec pokrywa połowę jabłka. Miąższ biały o zielonkawym odcieniu.
+        </color>
+        <appearance>Jabłko duże, kuliste, nieco spłaszczone. Skórka gładka z woskowym nalotem, zielonkawa w miarę dojrzewania żółknąca. Jasnoczerwony rumieniec w ciemniejsze prążki na połowie owocu. Zagłębienie szypułkowe głębokie, dość szerokie i ordzawione. Szypułka długa, cienka, wystająca ponad owoc. Zagłębienie kielichowe głębokie i szerokie. Komora nasienna mała, cebulowata.
+        </appearance>
+        <consistency>Miąższ średnio ścisły, soczysty, owoc miękki. </consistency>
+        <flavor>Jabłko winne o świeżym zapachu, aromatyczne.
+        </flavor>
+        <size>Jabłko duże o średnicy powyżej 7 cm i wysokości około 6 cm. </size>
+    </item>
+    <item>
+        <name>Stara odmiana jabłoni Książę Albrecht Pruski</name>
+        <form>Owoc kulisty, spłaszczony, lekko zwężający się ku kielichowi. Zagłębienie szypułkowe i kielichowe głębokie oraz szerokie. Komory nasienne zamknięte, małe. Nasiona drobne, krótkie, dość szerokie. </form>
+        <color>Skórka zielonożółta z czerwonym prążkowanym rumieńcem pokrywającym połowę jabłka. Miąższ biały o zielonkawym odcieniu.</color>
+        <appearance>Jabłko średniej wielkości, kuliste, spłaszczone, zwężające się w stronę kielicha. Skórka gładka, mocna, zielonożółta z intensywnie czerwonym prążkowanym rumieńcem na połowie owocu. Zagłębienie szypułkowe głębokie, dość szerokie i ordzawione. Szypułka krótka i mięsista. Zagłębienie kielichowe dość głębokie, pofałdowane. Komora nasienna niewielka, nasiona liczne i małe. </appearance>
+        <consistency>Miąższ średnio ścisły, lekko ziarnisty, soczysty. </consistency>
+        <flavor>Jabłko o kwaskowatym smaku i niezbyt silnym aromacie. </flavor>
+        <size>Jabłko średniej wielkości, o średnicy do 7 cm.
+        </size>
+    </item>
+    <item>
+        <name>Jabłka odmiany Grafsztynek prawdziwy, zwany też Grafsztynkiem z Grafsztynu (nazwy niemieckie Gravensteiner, Haferapfel)</name>
+        <form>Owoc kulisty, wyraźnie żebrowany. Kielich głęboki i szeroki. W przekroju asymetryczny. </form>
+        <color>Skórka zielonożółta do woskowożółtej z intensywnym czerwonym, prążkowanym rumieńcem. Miąższ biały. </color>
+        <appearance>Jabłko średnie i duże, kuliste, lekkie, wyraźnie żebrowane. Skórka delikatna, woskowożółta z karminowymi cętkami i paskami tworzącymi rumieniec na połowie owocu. Zagłębienie kielichowe głębokie, mięsista i krótka szypułka. Miąższ biały, miękki, bardzo soczysty i aromatyczny. </appearance>
+        <consistency>Miąższ ścisły, miękki, owoc chrupiący, bardzo soczysty. </consistency>
+        <flavor>Owoc słodkowinny, bardzo aromatyczny. Najbardziej pachnąca odmiana jesienna.</flavor>
+        <size>Jabłko duże o średnicy powyżej 8 cm.
+        </size>
+    </item>
+    <item>
+        <name>Konfitura truskawkowa</name>
+        <form>W zależności od naczynia, w którym się znajduje.</form>
+        <color>Bordowo-czerwona, intensywna.</color>
+        <appearance>Całe owoce truskawek i ich fragmenty umieszczone w gęstym syropie.</appearance>
+        <consistency>Niejednorodna, gęsta.</consistency>
+        <flavor>Słodki, intensywny smak, łagodny zapach truskawek.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone z liściem dębu</name>
+        <form>Prosty, cylindryczny.</form>
+        <color>Jasnozielona skórka, jaśniejsze smugi do połowy długości owocu od strony kwiatu. Na przekroju miąższ biały, przechodzący w jasnozielony.</color>
+        <appearance>Ogórki długie, proste, z charakterystycznymi brodawkami na skórce. Na przekroju widoczne komory nasienne.</appearance>
+        <consistency>Konsystencja ogórków zwarta, w dotyku wyczuwalna twardość.</consistency>
+        <flavor>Smak i zapach charakterystyczny dla ogórków kwaszonych. Wyczuwalny posmak czosnku, kopru oraz chrzanu.</flavor>
+        <size>Długość od 7 do 12 cm. Stosunek grubości do długości wynosi 1:3.</size>
+    </item>
+    <item>
+        <name>Modro kapusta (tj. kapusta czerwona)</name>
+        <form>Sałatkę z modrej kapusty podaje się najczęściej w porcelanowej albo szklanej salaterce (kształt może być różny). Na wierzchu lekko zaznaczony kopczyk, udekorowany według uznania, np. natką pietruszki, krążkami cebuli i marchewki.</form>
+        <color>Sałatka jest koloru fioletowo-niebieskiego. Widoczne są w niej drobne złocisto-brązowe kawałeczki stopionego boczku. </color>
+        <appearance>Wyraźnie widoczne poszatkowane liście kapusty, niesklejone, lekko połyskliwe.</appearance>
+        <consistency>Luźne, ale wilgotne kawałeczki kapusty okraszone stopionym boczkiem. </consistency>
+        <flavor>Zapach słodko-kwaśny; smak typowy dla gotowanej kapusty z lekką nutką przypraw i boczku. </flavor>
+        <size>Zależy od ilości zużytej do sałatki kapusty oraz od kształtu i wielkości salaterki. </size>
+    </item>
+    <item>
+        <name>Kapusta kiszona z Bobrowy</name>
+        <form>Kształt pasków kapusta kiszona uzyskuje po rozdrobnieniu kapusty białej. Paski mają kształt podłużny, nieregularny, przypominający grubą nitkę.</form>
+        <color>Paski mają barwę jasnożółtą (na zewnątrz i na przekroju) z widocznymi płatkami startej marchewki.</color>
+        <appearance>Kapusta kiszona ma postać podłużnych, jasnożółtych pasków o nieregularnym kształcie, pokrytych sokiem jasnoszarej barwy.</appearance>
+        <consistency>Paski są dosyć twarde, zbite, chrupkie.</consistency>
+        <flavor>Smak lekko kwaśny, delikatnie palący, bardzo charakterystyczny. Czasem wyczuwalny smak kminku. Zapach dość intensywny, kwaśny.</flavor>
+        <size>Długość pasków jest uzależniona od sposobu cięcia – waha się od kilku do kilkudziesięciu centymetrów. Pole przekroju jest małe i wynosi zaledwie kilka mm².</size>
+    </item>
+    <item>
+        <name>Czosnek latowicki</name>
+        <form>Główki średniej wielkości w zależności od warunków glebowo-klimatycznych, sękate o nieregularnych kształtach.</form>
+        <color>Łuska okrywająca główkę ma barwę od kremowo-białej do różowo-białej z ewentualnymi przemazami fioletowo-różowymi. Ząbki okryte łuską mają barwę od jasno różowej do ciemno różowo-fioletowej z przemazami różowo-fioletowymi, na przekroju kremowe. Intensywność barwy fioletowej zależy od warunków glebowo-klimatycznych.</color>
+        <appearance>Główki typowe dla czosnku, składające się z kilku do kilkunastu ząbków ułożonych niesymetrycznie, ściśle przylegające do siebie. Czosnek latowicki przygotowywany jest z zasuszonym szczypiorem, powiązany w pęczki lub zapleciony w warkocz.</appearance>
+        <consistency>Ząbki czosnku po zdjęciu okrywy są kruche, jędrne i soczyste.</consistency>
+        <flavor>Wyjątkowo ostry, korzenny zapach i smak spowodowany dużą zawartością olejków lotnych.</flavor>
+        <size>Masa główki około 45-60 g (bezpośrednio po zbiorze) w zależności od warunków glebowo-klimatycznych panujących na polu, ząbki różnej wielkości.</size>
+    </item>
+    <item>
+        <name>Jabłka grójeckie</name>
+        <form>Kształt jabłek grójeckich jest uzależniony od odmiany. Jabłka grójeckie mają kształt kulisty: regularny, spłaszczony, wydłużony.</form>
+        <color>Jabłka grójeckie w zależności od odmiany posiadają różne barwy, poczynając od bordowego, poprzez czerwony, różowy, żółty, na zielonym kończąc. W przekroju barwa miąższu jest biała lub kremowa.</color>
+        <appearance>Jabłka grójeckie charakteryzują się wysokim poziomem wybarwienia. Ich wygląd jest uzależniony od cech poszczególnych odmian, których rumieniec może być rozmyty lub paskowany, a ich wybarwienie waha się od 40% do nawet 95% powierzchni owocu.</appearance>
+        <consistency>Konsystencja jabłek grójeckich może być: krucha, średnio zwięzła lub ścisła. Skórka jabłek w zależności od odmiany jest gładka lub szorstka. Na niektórych odmianach występuje specyficzny, naturalny nalot.</consistency>
+        <flavor>Smak jabłek grójeckich uzależniony od odmian może być: słodki, słodko-kwaśny, słodko-winny, kwaskowaty, winny, korzenno-winny. Ze względu na specyficzny mikroklimat smak i zapach jabłek grójeckich jest bardziej wyrazisty i aromatyczny od jabłek uprawianych w innych regionach.</flavor>
+        <size>Wielkość owoców jest wyznaczana za pomocą średnicy poprzecznej jabłka mierzoną w najszerszym miejscu. Uzależniona jest od odmiany jabłek i dla regionu grójeckiego wynosi 6,5-9 cm.</size>
+    </item>
+    <item>
+        <name>Marmolada z antonówek</name>
+        <form>W zależności od naczynia.</form>
+        <color>Jasno-złocista.</color>
+        <appearance>Jednorodna, gęsta galareta z widocznymi cząstkami jabłek.</appearance>
+        <consistency>Jednorodna, galaretowata.</consistency>
+        <flavor>Winny, słodko-kwaśny.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Konfitura wiśniowa zakroczymska</name>
+        <form>Zależy od wielkości naczynia.</form>
+        <color>Konsystencja wiśni sztywna, syrop lepki.</color>
+        <appearance>Wiśnie bez pestek w syropie o gęstej konsystencji.</appearance>
+        <consistency>Smak słodki. Zapach intensywny – wiśniowy.</consistency>
+        <flavor>Od dawnych czasów drzewa owocowe, w tym wiśnie, rosły w przydomowych chłopskich sadach, na granicach podwórek i pól między sąsiadami. Wysadzanie drzew wiśniowych w pobliżu domostw ułatwiało znacznie zbiory. Każda z gospodyń starała się pozyskać jak najwięcej owoców wiśni, z których robiła kompoty, dżemy, nalewki i konfitury. Wyrobem konfitur z wiśni na początku trudniły się klasztory, a gdy cukier buraczany bardziej się rozpowszechnił, konfitury robiono również na dworach. Z uwagi na fakt, że dawniej nie było chłodni ani lodówek do przechowywania przetworów, używano duże ilości cukru, który nadawał trwałość konfiturom. W okresie zbiorów przetwarzanie wiśni na konfiturę było typowym sposobem zabezpieczania owoców przed zepsuciem. Tradycyjne konfitury z wiśni w gęstym soku są produkowane bez dodatku substancji żelujących, pektyn itp. Konfitura wiśniowa zakroczymska znana jest od co najmniej późnych lat trzydziestych XX wieku. Prawdopodobnie do rozpowszechnienia tego produktu przyczyniło się Koło Gospodyń Wiejskich działające w Zakroczymiu od lat czterdziestych poprzez organizacje kursów gotowania i pieczenia. Przygotowując dawniej owoce wiśni do przerobu, usuwało się z nich pestki za pomocą szpilki do włosów, zaś obecnie „przyrząd” ten został zastąpiony przez drylownice ręczne bądź mechaniczne. Konfiturę wiśniową robi się wedle starej receptury z drylowanych wiśni zasypywanych cukrem w proporcji 1 do 1. Metoda przygotowywania konfitury jest rozbita na kilka wyraźnie określonych etapów. W pierwszej fazie produkcji konfitur należy drylowane wiśnie zasypać cukrem i przechowywać je przez okres co najmniej 24 godzin w chłodnym miejscu, na przykład w spiżarni lub piwnicy. Następnie odlewa się połowę soku i parokrotne podgrzewa się wiśnie wraz z pozostałym sokiem na małym ogniu, powoli doprowadzając do zagotowania. Należy unikać wrzenia, zwłaszcza w początkowej fazie gotowania. Ostatnim etapem jest wekowanie konfitur w słoikach i umieszczanie ich w spiżarni albo w piwnicy. Produkt winien „odstać” około 3 tygodni, aby nabrał lepszego smaku. Konfitura wiśniowa stanowi doskonały dodatek do chleba, ciasta, naleśników, budyniu, pączków i lodów.
+        </flavor>
+        <size>Kolor naturalny – wiśniowy.</size>
+    </item>
+    <item>
+        <name>Podchmielone wisienki zakroczymskie</name>
+        <form>Wielkość wiśni od 15 do 25 mm.</form>
+        <color>Wiśnia o sztywnej konsystencji, bez pestki.</color>
+        <appearance>Okrągła wiśnia zalana jasnym syropem ze spirytusem.</appearance>
+        <consistency>Wiśnia o sztywnej konsystencji, bez pestki.</consistency>
+        <flavor>Smak słodki z wyczuwalnym alkoholem. Zapach intensywny, wiśniowy.</flavor>
+        <size>Kolor owocu – intensywnie wiśniowy.</size>
+    </item>
+    <item>
+        <name>Śliwki w zalewie korzennej z Wolicy</name>
+        <form>Kształt śliwek zewnętrzny i na przekroju owalny, elipsoidalny.</form>
+        <color>Barwa zewnętrzna owoców fioletowo-brązowa, miąższ na przekroju w odcieniach żółci, zalewa ciemnobordowa, kardamonowa.</color>
+        <appearance>Owoce śliwy węgierki z pestkami w zalewie.</appearance>
+        <consistency>Owoce jędrne, sprężyste. Zalewa płynna, lepka.</consistency>
+        <flavor>Charakterystyczny dla owocu śliwy węgierki, słodko-kwaśny, wyraźnie wyczuwalny aromat goździków i cynamonu.</flavor>
+        <size>Pojedynczy owoc śliwy to ok. 2,5-3 cm wysokości i ok. 1-1,5 cm szerokości.</size>
+    </item>
+    <item>
+        <name>Papryka przytycka</name>
+        <form>Owoce papryki mogą być gładkie lub żebrowane, różnej wielkości i kształtu – od kulistych, spłaszczonych do silnie wydłużonych spiczasto zakończonych. Ze względu na owoce papryki można wyróżnić następujące typy handlowe: owoce wydłużone (ostro zakończone o szerokości powyżej 30 mm), owoce o kształcie graniastosłupa (tępo zakończone o szerokości powyżej 50 mm) oraz owoce w kształcie graniastosłupa (ze stożkowatym zakończeniem o szerokości powyżej 40 mm) oraz owoce spłaszczone (pomidorokształtne o szerokości 55 mm).</form>
+        <color>W zależności od stopnia dojrzałości. Początkowo zielona lub żółta, a po uzyskaniu odpowiedniej dojrzałości przyjmuje kolor czerwony.</color>
+        <appearance>Wygląd uzależniony od cech poszczególnej odmiany i stopnia dojrzałości.</appearance>
+        <consistency>Jędrna, lekko miękka, gładka skóra.</consistency>
+        <flavor>W zależności od odmiany. Smak może być kwaśny, słodki i pikantny – o różnym stopniu natężenia. Charakterystyczny smak papryka zawdzięcza kapsaicynie – alkaloidowi o silnie piekącym smaku.</flavor>
+        <size>Owoce papryki w zależności od uprawianej odmiany mogą osiągnąć wielkość od 6 cm do nawet 15 cm długości.</size>
+    </item>
+    <item>
+        <name>Konfitura borówkowa z gruszką</name>
+        <form>W zależności od naczynia.</form>
+        <color>Wiśniowo-czerwona pochodząca od owoców borówki. Kawałki gruszki również zabarwione. Lśniący, szklisty połysk.</color>
+        <appearance>Całe owoce borówki brusznicy z kawałkami gruszki w lekko gęstym syropie.</appearance>
+        <consistency>Niejednorodna, borówki i gruszki zwarte. Syrop lepki i lekko gęsty.</consistency>
+        <flavor>Smak słodki z lekko winnym zapachem.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Konfitura borówkowo-jabłkowa</name>
+        <form>W zależności od naczynia.</form>
+        <color>Ciemna, prawie czarna.</color>
+        <appearance>Masa z widocznymi malutkimi drobinami jabłek i borówek leśnych.</appearance>
+        <consistency>Miękka, lekko galaretowata, dobrze rozsmarowująca się.</consistency>
+        <flavor>Borówek leśnych z lekko wyczuwalnym smakiem jabłek.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Dżem z płatków róż</name>
+        <form>W zależności od naczynia.</form>
+        <color>Różano-wiśniowa (tango).</color>
+        <appearance>Różana masa lekko ziarnista, niejednorodna.</appearance>
+        <consistency>Gęsta, sztywna, lepka, lekko ziarnista. Mogą występować nie całkiem roztarte kawałki płatków róż.</consistency>
+        <flavor>Różany, słodki.</flavor>
+        <size>W zależności od wielkości naczynia.</size>
+    </item>
+    <item>
+        <name>Zakliczyński sok malinowy</name>
+        <form>W zależności od naczynia.</form>
+        <color>Ciemnobordowa.</color>
+        <appearance>Ciecz o konsystencji zawiesistej, lekko galaretowatej.</appearance>
+        <consistency>Pół płynna, galaretowata.</consistency>
+        <flavor>Słodki z intensywnym zapachem malin.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone w studni</name>
+        <form>Podłużny, owalny.</form>
+        <color>Ciemnooliwkowa, w przekroju pod skórką znacznie jaśniejsza.</color>
+        <appearance>Podłużne ogórki z charakterystycznymi brodawkami na skórce. Na przekroju widoczne jaśniejsze gniazda nasienne.</appearance>
+        <consistency>Zwarta, elastyczna.</consistency>
+        <flavor>Kwaśny, lekko słony, mocny wyczuwalny aromat czosnku i kopru, a także posmak chrzanu.</flavor>
+        <size>Długość ogórka od 4 cm do 12 cm.</size>
+    </item>
+    <item>
+        <name>Maliny z Brzeznej</name>
+        <form>Kształt owoców jest kulisty, owalny, stożkowy lub wydłużony.</form>
+        <color>Barwa owoców uzależniona jest od gatunku i odmiany, może być czerwona, żółta lub czarna.</color>
+        <appearance>Owoc złożony, który w zależności od gatunku i odmiany cechuje się różną wielkością, kształtem, barwą oraz siłą zrośnięcia z dnem kwiatowym.</appearance>
+        <consistency>Malina należy do owoców miękkich.</consistency>
+        <flavor>Owoce maliny są aromatyczne, soczyste i smaczne. Wykazują smak od kwaskowatego do słodkiego i mają swoisty zapach.</flavor>
+        <size>W zależności od gatunku i odmiany, jak również warunków uprawy, owoce malin mogą mieć różną wielkość – od drobnoowocowych do wielkoowocowych.</size>
+    </item>
+    <item>
+        <name>Susorki iwkowskie</name>
+        <form>Śliwka – kulista, lekko podłużna, gruszka – okrągła, podłużna i zwężająca się przy szypułce z widocznymi zmarszczkami na powierzchni, jabłko – okrągłe plastry.</form>
+        <color>Śliwki – ciemny, połyskujący odcień czerni, gruszki – jasny, matowy odcień czerni, jabłka – jasnozłoty, przechodzący w brąz, na obrzeżach ciemniejszy.</color>
+        <appearance>Suszone owoce, w tym: gruszki i śliwki w całości, jabłka ususzone w plastrach.</appearance>
+        <consistency>Śliwki i jabłka – suche, elastyczne, sprężyste. Gruszki – suche, twarde, zbite.</consistency>
+        <flavor>Słodki smak owoców z wyczuwalnym posmakiem i zapachem dymu.</flavor>
+        <size>Śliwki – w zależności od wielkości owoców, najczęściej 1,5-4,5 cm, gruszki – w zależności od odmiany 6-8 cm, jabłka – średnica plastra 3-6 cm.</size>
+    </item>
+    <item>
+        <name>Polska fasola z orzełkiem</name>
+        <form>Nasiona owalne, podłużne, w przekroju nieco spłaszczone. Nasiona białe, błyszczące.</form>
+        <color>Nasiona białe, błyszczące. Znamię „orzełka” w okolicy znaczka, od strony brzusznej nasiona ma barwę wiśniowo-czerwoną. W przekroju barwa jasno-kremowa. Masa tysiąca nasion wynosi około 640 g.</color>
+        <appearance>Fasola karłowa, biała, gładka, podłużna, jednolita w kształcie, z ciemnym wiśniowo-czerwonym znamieniem wokół znaczka (po stronie brzusznej), kształtem przypominającym piastowskiego orła.</appearance>
+        <consistency>Nasiona suche są twarde i śliskie.</consistency>
+        <flavor>Typowy dla fasoli.</flavor>
+        <size>Nasiona o długości 15-20 mm, w przekroju 8-10 mm.</size>
+    </item>
+    <item>
+        <name>Nadwiślański ogórek konserwowy z Kanny</name>
+        <form>Owalny, podłużny, chropowaty. Na przekroju okrągły i jędrny.</form>
+        <color>Oliwkowa.</color>
+        <appearance>Ogórek podłużny, twardy, sprężysty w klarownej zalewie. Na przekroju widać gładki miąższ ze słabo wykształconymi nasionami.</appearance>
+        <consistency>Sprężysty z charakterystyczną bruzdkowaną powierzchnią.</consistency>
+        <flavor>Chrupki, lekko słodki i delikatnie kwaśny z nutą octowo-czosnkową, wyczuwalny zapach użytych przypraw.</flavor>
+        <size>Ogórki o długości do 9 cm, o średnicy 2-3 cm.</size>
+    </item>
+    <item>
+        <name>Łukowicka śliwka suszona</name>
+        <form>Kształt jest owalnym lub odwrotnie jajowatym, co oznacza, że owoc śliwki węgierki jest najszerszy nie w połowie wysokości, lecz bliżej szypułki. Szypułka węgierek jest dość długa i cienka (dł. 15-25 mm). Po przekrojeniu węgierka ma lekko eliptyczny kształt.</form>
+        <color>Barwa granatowa lub fioletowa, po przekrojeniu odsłania się zielonozłocisty miąższ oraz brązowozłota pestka.</color>
+        <appearance>Owalny owoc z miękkim i soczystym miąższem. Owoce pokryte szadzią. Biała szadź, która chroni owoc przed wyschnięciem, jest zmywalną wydzieliną. Można również zauważyć charakterystyczną dla śliwek „bruzdę” przebiegającą po stronie brzusznej owocu (od zagłębienia przyszypułkowego do śladu posłupkowego). Oddziela ona wyraźnie stronę brzuszną od grzbietowej owocu i dzieli go na dwie części. Warto zaznaczyć, iż głębokość i szerokość bruzdy w wypadku śliwki węgierki jest raczej niewielka w porównaniu np. do renklody.</appearance>
+        <consistency>Miąższ jest zielonozłocisty, zwarty, słodki, bardzo smaczny, łatwo odchodzący od pestki.</consistency>
+        <flavor>Śliwki o charakterystycznym dobrym smaku są bardzo słodkie i często o pomarszczonej skórce. „Węgierka zwykła” pozostaje synonimem śliwki dobrej jakości.</flavor>
+        <size>Owoce śliwek węgierek charakteryzują się średnią wielkością w granicach 25-30 g; długość 3-4 cm, szerokość po przekrojeniu 1,5-2,5 cm.</size>
+    </item>
+    <item>
+        <name>Jabłka łąckie</name>
+        <form>Kuliste, kulisto-spłaszczone, kulisto-wydłużone, kulisto-stożkowe, dzwonkowate, walcowate, owalne, pigwowate, gruszkowate.</form>
+        <color>Barwa zasadnicza charakterystyczna dla danej odmiany, a rumieniec wyraźnie mocniejszy od jabłek pochodzących z innego regionu.</color>
+        <appearance>Wygląd zewnętrzny jest uzależniony od cech danej odmiany. Dla jabłek łąckich charakterystyczny jest większy rumieniec, który pokrywa większą część owocu. Niektóre z odmian mają nalot woskowy.</appearance>
+        <consistency>Konsystencja miąższu jest zależna od odmiany. Może przybierać postać kruchą, średniozwięzłą lub ścisłą. Wszystkie odmiany są również o konsystencji drobnoziarnistej, gruboziarnistej.</consistency>
+        <flavor>Wyrazisty smak i specyficzny, głęboki zapach. Większość owoców uzyskiwanych w rejonie Łącka cechuje się wyjątkową soczystością i aromatem.</flavor>
+        <size>Poprzeczna średnica owocu, mierzona w najszerszym miejscu, jest zależna od odmiany i w warunkach Łącka wynosi 4,5-9 cm.</size>
+    </item>
+    <item>
+        <name>Nasiona fasoli „Piękny Jaś” z doliny Dunajca</name>
+        <form>Nasiona bocznie spłaszczone o kształcie nerkowatym.</form>
+        <color>Nasiona mają błyszczącą okrywę nasienną o jednolitym białym zabarwieniu.</color>
+        <appearance>Nasiona fasoli „Piękny Jaś” z doliny Dunajca należą do największych w obrębie gatunku fasola wielokwiatowa. Są gładkie, dobrze wypełnione, jednolite w kształcie.</appearance>
+        <consistency>Zapach charakterystyczny dla dobrze wysuszonych nasion fasoli, o wilgotności około 12-14%.</consistency>
+        <flavor>Fasola jest jedną z najstarszych roślin uprawianych w Ameryce Środkowej i Południowej od ponad 7 tysięcy lat. Po odkryciu Ameryki Hiszpanie i Portugalczycy przywieźli dwa gatunki fasoli, znane i uprawiane dotychczas w całej Europie: fasolę zwyczajną (Phaseolus vulgaris L) i fasolę wielokwiatową (Phaseolus multiflorus Wild., syn. Phaseolus coccineus L) (Jasińska i Kotecki, 2003 r.). W Europie fasolę uprawiano początkowo w ogrodach botanicznych i przyklasztornych, ale wymieniana jest także jako składnik ogrodów zielarskich w projektowanych ogrodach cesarskich Karola Wielkiego. W Polsce fasola zwyczajna uprawiana była początkowo jako roślina ozdobna (XVI w.), głównie w ogrodach przyklasztornych, ale w XVII w. weszła do uprawy jako warzywo. Doktor Kazimierz Miczyński, profesor Akademii Rolniczej w Dublanach (1913 r.) w książce „Uprawa Roli i Roślin. Lwów” podaje, że „(…) fasola jest to roślina dotąd uprawiana więcej w ogrodach, choć zasługuje na rozpowszechnienie w uprawie polowej”. Zdaniem Miczyńskiego „(…) rozróżnić należy dwa główne gatunki: 1) fasolę wielkoziarnową białą i pstrą (zwaną także Jaśkiem) o płaskim dużym ziarnie i wijących się łodygach, i o kwiatach białych lub pięknie czerwonych i 2) fasolę zwykłą (…)”, przy czym oba gatunki „(…) najlepiej udają się w okolicach o ciepłym lecie np. na Podolu południowym i Pokuciu, także w Stryjskim i w Brzozowskim w Galicji”. Źródła współczesne (Cholewińska, 1964 r.) podają, że „(…) najlepsze warunki do uprawy fasoli na suche ziarno mają następujące rejony: 1) rejon południowej Lubelszczyzny z Rzeszowem, Przemyślem i Jarosławiem; 2) rejon poznańsko-pomorsko-łódzki, obejmujący południowo-zachodnią część województwa poznańskiego, południową – pomorskiego oraz okolice Radomia oraz 3) rejon krakowski – przede wszystkim okolice Tarnowa, gdzie spotyka się przeważnie plantacje fasoli tycznej”. Z kolei Jasińska i Kotecki (2003 r.) podają, że „(…) fasolę wielokwiatową o nazwie piękny Jaś uprawiano początkowo w okolicy Dunajca, Raby i Wisły, a pod koniec XIX wieku znana już była na terenie całej Polski, a także rozpowszechniła się szeroko poza jej granicami pod nazwą Biała Podlaska”. W obrazie etnograficznym (zbiór z lat 1897-1906) „Brzozowa i okolice Zakliczyna nad Dunajcem” (Świętek, 1989 r.) autor poświęca uprawie fasoli w tym regionie sporo miejsca, opisując sposób uprawy, zbioru i dosuszania fasoli, którą nazywano „grochem piechotnym”. Dowodem na długoletnią uprawę tego gatunku w dolinie Dunajca jest wyciąg z Kroniki Parafii Tropie o kradzieży tyczek służących do uprawy, które okazały się powodem zabójstwa. W 1965 r. fasola „Piękny Jaś” została zgłoszona do rejestru odmian i została zarejestrowana jako odmiana miejscowa (Rm), uprawiana na suche ziarno (COBORU Lista Odmian Roślin Uprawnych 1971, 1972, 1973, 1975, 1976, 1977). Na Liście Odmian Roślin Uprawnych z 1978 r., „Piękny Jaś” pojawia się w rubryce – uprawa na suche nasiona, odmiany tyczne – jako odmiana oryginalna Ro (COBORU 1978, 1979, 1980). W aktualnych listach odmian roślin warzywnych zarejestrowanych jest 7 odmian fasoli wielokwiatowej, ale odmiana „Piękny Jaś” jako odmiana tyczna została z Rejestru Odmian Oryginalnych wycofana. Optymalne warunki glebowo-klimatyczne doliny Dunajca do uprawy fasoli, gwarantujące wierny, wyrównany i o dobrej zdrowotności plon nasion, wartość smakowa tej cennej odmiany zapewniająca zbyt sprawiły, że rolnicy pomimo pojawiających się nowych biczykowatych odmian fasoli wielokwiatowej wciąż uprawiają miejscową fasolę tyczną „Piękny Jaś”. Dolina Dunajca to jedyny region w Polsce, w którym uprawia się nadal na dużą skalę fasolę tyczną. Urząd statystyczny w Krakowie (Kraków 2003 r.) podaje, że powierzchnia zasiewów (według grup ziemiopłodów podregionów i powiatów) jadalnych roślin strączkowych w województwie małopolskim wynosiła ogółem 1677 ha, w tym w podregionie krakowsko-tarnowskim 1512 ha. W uprawie form wysokich, wiotkołodygowych istotną rolę odgrywa także wiatr. Plantacje fasoli w tym rejonie położone są stosunkowo nisko, często w niewielkiej odległości od rzeki, dzięki czemu pola są osłonięte od wiatru, a poranne mgły wiosną i jesienią ograniczają gwałtowną zmianę temperatury pomiędzy dniem i nocą. Biorąc pod uwagę wieloletnią tradycję uprawy fasoli „Piękny Jaś”, znakomite warunki glebowo-klimatyczne doliny Dunajca, położenie plantacji, wierne plony nasion o wysokiej zdrowotności, zalecenia żywieniowców do spożywania nasion roślin strączkowych oraz wykorzystanie nasion fasoli „Piękny Jaś” w regionalnej sztuce kulinarnej, wydaje się ze wszech miar uzasadnione wpisanie tej cennej odmiany miejscowej na listę produktów tradycyjnych.
+        </flavor>
+        <size>Nasiona fasoli „Piękny Jaś” z doliny Dunajca są duże, o masie tysiąca nasion od 1100 do 1500 g, w zależności od warunków glebowych plantacji i przebiegu warunków meteorologicznych w okresie wegetacji.</size>
+    </item>
+    <item>
+        <name>Powidła śliwkowe z Kałęczewa</name>
+        <form>Przyjmuje kształt naczynia, w którym się znajduje.</form>
+        <color>Brązowa z odcieniem czerwonym lub brunatnym.</color>
+        <appearance>Gęsta jednolita masa śliwkowa.</appearance>
+        <consistency>Gęsta, smarowna, w miarę jednolita masa, z niewielkimi fragmentami owoców lub ich skórek.</consistency>
+        <flavor>Słodko-kwaśny, charakterystyczny dla smażonych śliwek.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Jabłko z Raciechowic</name>
+        <form>Kształt związany z daną odmianą, na co wpływ ma również specyficzny mikroklimat gminy Raciechowice. Kształt większości jabłek – okrągły lub zbliżony do okrągłego, tylko kilka gatunków np. gloster ma kształt podłużny podobny do elipsowatego.
+        </form>
+        <color>Kolor większości jabłek deserowych – żółto-czerwony lub bordowo-czerwony. W przekroju – miąższ w kolorze kremowym lub białym.</color>
+        <appearance>Kolor charakterystyczny dla poszczególnych odmian, o dużym znaczeniu wybarwienia, przechodzi od żółtego przez ciemnoczerwony do bordowego. W przekroju miąższ biały lub kremowy o przyjemnym, aromatycznym zapachu i smaku.
+        </appearance>
+        <consistency>Konsystencja ścisła, po przekrojeniu miąższ soczysty i wilgotny. Jabłka typu jonagold, janagored przy dłuższym leżakowaniu w przechowalni wytwarzają śliską i twardą w dotyku powłokę w celu nawilżenia skórki jabłka – jest to zjawisko naturalne i występuje tylko wtedy, gdy jabłko jest przechowywane w odpowiednich warunkach, co ma wpływ na jego zapach i smak.</consistency>
+        <flavor>Smak i zapach w dużej mierze zależą od odmiany i sposobu przechowywania jabłek, w zależności od gatunku jabłka – kilka smaków i zapachów: słodki, słodko-kwaśny, słodko-winny, kwaskowaty, winny, korzenno-winny, kwaśny z korzennym posmakiem, aromatyczny, soczysty.</flavor>
+        <size>W przypadku jabłek występuje ich kalibracja – trzy standardowe kalibracje, mierzone jako średnica jabłka to: + 6,5 cm, 7-7,5 cm, + 7,5 cm (największe okazy mają nawet 12-13 cm średnicy i ważą ok. 0,70 kg).
+        </size>
+    </item>
+    <item>
+        <name>Suska sechlońska</name>
+        <form>Nieregularny, zbliżony do owalnego, z widoczną na przekroju pestką.</form>
+        <color>Kolor ciemnobrązowy przechodzący w czarny.</color>
+        <appearance>Cały owoc pokryty pomarszczoną skórką, na przekroju pestka otoczona mięsistym miąższem.</appearance>
+        <consistency>Miękka, mięsista, o elastycznym, giętkim miąższu.</consistency>
+        <flavor>Smak słodki, z wyczuwalnym posmakiem wędzenia, właściwy dla produktów wędzonych. Zapach charakterystyczny dla produktów wędzonych z aromatem dymu z drzewa użytego do wędzenia.</flavor>
+        <size>W zależności od odmiany od 1,5 cm do 4,5 cm.</size>
+    </item>
+    <item>
+        <name>Charsznicka kapusta kwaszona</name>
+        <form>Skrawki przypominają nitki o nieregularnych kształtach.</form>
+        <color>Kapusta kwaszona ma barwę kremowo-żółtą. Kwas kapuściany jest w podobnym kolorze kremowo-żółtym; przejrzysty.</color>
+        <appearance>Kapusta kwaszona ma postać podłużnych nitek powstałych na skutek krojenia (szatkowania) główek kapusty na skrawki o grubości ok. 0,8 mm. Nieodłącznym elementem kapusty kwaszonej jest kwas kapuściany w kolorze zbliżonym do kremowo-żółtego, w którym kapusta jest zanurzona.</appearance>
+        <consistency>Kapusta jest chrupiąca i jędrna.</consistency>
+        <flavor>Smak lekko kwaśny, podobnie zapach</flavor>
+        <size>Przekrój skrawków – ok. 0,8 mm, długość skrawków – do ok. 30 cm.</size>
+    </item>
+    <item>
+        <name>Konfitura wiśniowa z Kałęczewa</name>
+        <form>Przyjmuje kształt naczynia, w którym się znajduje.</form>
+        <color>Wiśniowa z odcieniem czerwonym lub brunatnym.</color>
+        <appearance>Gęsta niejednolita masa wiśniowa.</appearance>
+        <consistency>Gęsta, niejednolita masa, z widocznymi kawałkami owoców.</consistency>
+        <flavor>Słodko-kwaśny, charakterystyczny dla smażonych wiśni z cukrem.</flavor>
+        <size>W zależności od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Konfitura z żurawiny z Osse</name>
+        <form>W zależności od naczynia, w którym się znajduje, np. słoiki.</form>
+        <color>Od ciemnoczerwonej do brązowej.</color>
+        <appearance>Gęsta niejednolita masa z żurawiny.</appearance>
+        <consistency>Gęsta niejednolita masa o konsystencji półpłynnej, z widocznymi owocami żurawiny.</consistency>
+        <flavor>Smak kwaśno-słodki z cierpkim posmakiem, wyczuwalnym smakiem dodanych przypraw tj.: wanilii, goździków, anyżu i wina.</flavor>
+        <size>Zależna od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Kapusta kiszona w całych głowach</name>
+        <form>Owalny na zewnątrz i w przekroju.</form>
+        <color>Na zewnątrz i w przekroju barwa liści słomkowo-zielona z żółtym odcieniem.</color>
+        <appearance>Owalna główka kapusty bez uszkodzeń mechanicznych i plam. W przekroju zwarty wachlarz jędrnych liści kapusty.</appearance>
+        <consistency>Kapusta jędrna i twarda w dotyku. Liście jędrne i chrupkie.</consistency>
+        <flavor>Charakterystyczny dla kapusty prawidłowo ukwaszonej z wyczuwalnym smakiem i zapachem aromatycznych przypraw. Słony i kwaśny bez obcych posmaków i zapachów.</flavor>
+        <size>Główki kapusty średniej wielkości ok. 1,5-2 kg, średnica ok. 20 cm.</size>
+    </item>
+    <item>
+        <name>Ogórki kwaszone po łowicku</name>
+        <form>Ogórki cylindryczne, podłużne, na przekroju w kształcie wydłużonej elipsy</form>
+        <color>Barwa zmieniona procesem fermentacji: oliwkowozielona o różnych odcieniach, w przekroju barwa wyrównana jaśniejsza. Zalewa klarowna białoszara do zielonkawoszarej bez oznak śluzowacenia i zapleśnienia</color>
+        <appearance>Ogórki podłużne, proste, grubo-brodawkowe, wyrównanej wielkości, proporcjonalne; w przekroju widoczne wykształcone nasiona, ściśle przylegające, sporadycznie puste komóry.</appearance>
+        <consistency>Ogórki chrupkie, jędrne.</consistency>
+        <flavor>Bez obcych posmaków i zapachów, kwaśno-słony, z charakterystycznym posmakiem użytych przypraw: kopru, chrzanu i czosnku. Po okresie właściwej fermentacji ogórki delikatniejsze w smaku; im później spożywane, tym smak bardziej wyrazisty – mocniejszy, bardziej kwaśny</flavor>
+        <size>Długość od 6 do 11 cm, średnica mierzona w najszerszym miejscu od 2 do 5 cm, jednak nie większa niż połowa długości ogórka</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone z Rogowa</name>
+        <form>Podłużny, cylindryczny.</form>
+        <color>Zewnętrzna oliwkowa z widocznymi jaśniejszymi prążkami, w przekroju barwa wyraźnie jaśniejsza z odcieniami zieleni i żółtego.</color>
+        <appearance>Podłużne ogórki o różnej wielkości, w przekroju widoczne komory nasienne.</appearance>
+        <consistency>Ogórki jędrne, soczyste, lekko chrupiące.</consistency>
+        <flavor>Kwaśny, lekko słony z wyczuwalnym posmakiem czosnku, kopru i chrzanu.</flavor>
+        <size>Długość od 6 cm do 10 cm, średnica w przekroju od 2 cm do 4 cm.</size>
+    </item>
+    <item>
+        <name>Powidła z papierówek z Kobylnik</name>
+        <form>Przyjmuje kształt naczynia, w którym jest przechowywana.</form>
+        <color>Od słomkowej do jasnożółtej. W przypadku powideł z dodatkiem innych owoców (dynia, śliwka, wiśnia, czarna porzeczka, aronia) od żółtej, jasnobrązowej do ciemnoczerwonej z odcieniem fioletu.</color>
+        <appearance>Gęsta masa z widocznymi niewielkimi kawałkami owoców.</appearance>
+        <consistency>Gęsta masa.</consistency>
+        <flavor>Smak lekko słodki i kwaskowy gotowanych jabłek z wyczuwalnym dodatkiem cynamonu. Ewentualny dodatek innych owoców pogłębia słodycz – śliwki węgierki lub dodaje kwaskowego posmaku – wiśnie. Zapach charakterystyczny dla smażonych owoców.</flavor>
+        <size>Uzależniona od naczynia, w którym się znajduje. Mogą to być słoiki szklane o pojemności 0,25 l – 1,0 litra.</size>
+    </item>
+    <item>
+        <name>Pikantna konfitura z dzikiego wina</name>
+        <form>Przyjmuje kształt naczynia.</form>
+        <color>Barwa ciemnofioletowa z odcieniem ciemnej czerwieni.</color>
+        <appearance>Gęsta jednolita masa o ciemnofioletowej barwie.</appearance>
+        <consistency>Gęsta, smarowna, w miarę jednolita masa.</consistency>
+        <flavor>Smak kwaskowy ze słodkim posmakiem i wyczuwalnym smakiem dodanych przypraw: imbiru, pieprzu, cynamonu, gałki muszkatołowej. Zapach charakterystyczny dla smażonych owoców, wyczuwalny zapach dodanych przypraw.</flavor>
+        <size>Zależna od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Konfitura agrestowa z Osse</name>
+        <form>W zależności od naczynia, w którym się znajduje.</form>
+        <color>Pomarańczowo-jasnobrązowa.</color>
+        <appearance>Gęsta jednolita masa z agrestu.</appearance>
+        <consistency>Gęsta jednolita masa o konsystencji półpłynnej do prawie stałej.</consistency>
+        <flavor>Smak słodko-kwaśny z wyczuwalnym smakiem wanilii i ajerkoniaku. Zapach charakterystyczny dla smażonych owoców o wyczuwalnym intensywnym zapachu wanilii.</flavor>
+        <size>Zależna od naczynia, w którym się znajduje.</size>
+    </item>
+    <item>
+        <name>Chrzan znad Środkowej Warty, w laskach</name>
+        <form>Laski cylindryczne, na przekroju okrągłe.</form>
+        <color>Laski barwy biało-żółtawej, kremowo-biały miąższ</color>
+        <appearance>Laski (korzenie) świeże, długie, chropowata skórka, zwięzły miąższ.</appearance>
+        <consistency>Laski jędrne, pękające przy zginaniu, miąższ zwięzły, nieco włóknisty</consistency>
+        <flavor>Laski otarte ze skórki, charakterystyczny przenikliwy zapach i ostry smak świeżego chrzanu.</flavor>
+        <size>Laski długości powyżej 25 cm, średnicy powyżej 2,5 cm.</size>
+    </item>
+    <item>
+        <name>Ogórki konserwowe po łowicku</name>
+        <form>Ogórki cylindryczne, podłużne; na przekroju w kształcie wydłużonej elipsy.</form>
+        <color>Barwa zmieniona procesem fermentacji: oliwkowozielona o różnych odcieniach, w przekroju barwa wyrównana, jaśniejsza. Zalewa klarowna</color>
+        <appearance>Ogórki podłużne, proste, grubo-brodawkowe, wyrównanej wielkości, proporcjonalne; w przekroju widoczne słabo wykształcone nasiona, ściśle przylegające, brak pustych komór. Na dole słoja baldach kopru.</appearance>
+        <consistency>Ogórki chrupkie, jędrne.</consistency>
+        <flavor>Bez obcych posmaków i zapachów, kwaśno-słodki z wyraźnie wyczuwalnym smakiem użytych przypraw: wywar z pieprzu, ziela angielskiego, liścia laurowego, gorczycy i kopru.</flavor>
+        <size>Długość od 6 do 11 cm, średnica mierzona w najszerszym miejscu od 2 do 5 cm, jednak nie większa niż połowa długości ogórka</size>
+    </item>
+    <item>
+        <name>Ogórek kwaszony spod Wielunia</name>
+        <form>Ogórki cylindryczne, podłużne; na przekroju owalne.</form>
+        <color>Barwa zmieniona procesem fermentacji: oliwkowozielona w różnych odcieniach, po przekrojeniu barwa jaśniejsza, wyrównana. Barwa zalewy białoszara – klarowna bez oznak zapleśnienia.</color>
+        <appearance>Oliwkowozielone, proste, podłużne, jędrne ogórki długości 7-10 cm. Na przekroju widoczne wykształcone nasiona, ściśle do siebie przylegające</appearance>
+        <consistency>Ogórek kruchy, chrupiący, jędrny</consistency>
+        <flavor>Smak kwaśny, podobnie zapach, z charakterystycznym posmakiem użytych przypraw: kopru, chrzanu, czosnku oraz dębu.</flavor>
+        <size>Długość ogórka 7-10 cm, średnica mierzona w najszerszym miejscu od 2,5-5 cm, ale nie większa niż połowa długości ogórka</size>
+    </item>
+    <item>
+        <name>Chrzan nadwarciański po staropolsku</name>
+        <form>Zależny od naczynia</form>
+        <color>Jednolicie kremowobiała</color>
+        <appearance>Kremowobiała masa z wyraźnie widocznymi drobinami utartego korzenia chrzanu</appearance>
+        <consistency>Gęsta masa z dobrze wyczuwalnymi włóknistymi drobinami</consistency>
+        <flavor>Zapach ostry, przenikliwy, charakterystyczny dla świeżo startego chrzanu. Smak ostry z nutą kwaśno-słodką.</flavor>
+        <size>Zależna od naczynia</size>
+    </item>
+    <item>
+        <name>Ogórki kiszone kraśnickie</name>
+        <form>Ogórki owalne, nieprzerośnięte, symetryczne. W przekroju okrągłe.</form>
+        <color>Barwa ogórków – oliwkowo-zielona, w przekroju nieco jaśniejsza niż na zewnątrz. Barwa zalewy – szaro-biała.</color>
+        <appearance>Ogórki są owalne, równomiernie wybarwione. Na ich przekroju widać skupione w środku, dobrze wypełnione gniazda nasienne.</appearance>
+        <consistency>Ogórki są jędrne i chrupiące</consistency>
+        <flavor>Zapach charakterystyczny dla ogórków kiszonych z wyczuwalnym aromatem przypraw.</flavor>
+        <size>Długość ogórków – od 6 do 15 cm Średnica ogórków – od 2 do 5 cm</size>
+    </item>
+    <item>
+        <name>Miodowa musztarda z dyni – pikantna i łagodna</name>
+        <form>W zależności od naczynia, w jakim się znajduje.</form>
+        <color>Czerwona.</color>
+        <appearance>Pasta na bazie dyni, miodu, gorczycy, papryki, octu jabłkowo-miodowego i przypraw.</appearance>
+        <consistency>Gęsta masa, pasta o wyczuwalnych grudkach.</consistency>
+        <flavor>Posmak dyni, miodu oraz papryki.</flavor>
+        <size>W zależności od naczynia, w jakim się znajduje, np. słoiczki po 200 ml.</size>
+    </item>
+    <item>
+        <name>Malina kraśnicka</name>
+        <form>Kształt owoców może być owalny lub cylindryczny.</form>
+        <color>Od czerwonej do ciemnoczerwonej.</color>
+        <appearance>Jest to owoc o owalnym lub cylindrycznym kształcie, barwy czerwonej.</appearance>
+        <consistency>Malina należy do grupy owoców miękkich.</consistency>
+        <flavor>Malina ma słodki smak i swoisty specyficzny zapach.</flavor>
+        <size>Owoce maliny mogą być różnej wielkości i zależy to od stanowiska wegetacyjnego, stopnia nawożenia i nawodnienia.</size>
+    </item>
+    <item>
+        <name>Nagawskie jabłka pieczone z sokiem</name>
+        <form>Na zewnątrz i na przekroju okrągły lub owalny w zależności od gatunku jabłka</form>
+        <color>Skórka zewnętrzna brązowa z białymi drobinkami cukru pudru, miękisz przybiera barwę użytego soku</color>
+        <appearance>Jabłko o przypieczonej, brązowawej skórce</appearance>
+        <consistency>Upieczony, miękki owoc z przypieczoną skórką</consistency>
+        <flavor>Charakterystyczny dla pieczonego jabłka i soku, słodki i intensywny
+        </flavor>
+        <size>Zależy od gatunku jabłka</size>
+    </item>
+    <item>
+        <name>Jabłka odmiany Landsberska</name>
+        <form>Kulisto-stożkowaty, a niekiedy szeroko kulisty.</form>
+        <color>Zielonkawożółta skórka, zwykle z niewielkim, rozmytym, ceglastym rumieńcem i dość licznymi, dobrze widocznymi przetchlinkami. Miąższ owoców biały z żółtawym lub zielonkawym odcieniem.</color>
+        <appearance>Kulisto-stożkowate, a niekiedy szeroko kuliste owoce o zielonkawożółtej skórce, zwykle z niewielkim, jasnym, rozmytym, ceglastym rumieńcem i dość licznymi przetchlinkami.</appearance>
+        <consistency>Zwarta, zbita.</consistency>
+        <flavor>Kwaskowato-słodki, lekko aromatyczny.</flavor>
+        <size>Średniej wielkości lub duże.</size>
+    </item>
+    <item>
+        <name>Śliwa w occie</name>
+        <form>Śliwka owalna.</form>
+        <color>Zewnętrzna brązowa z odcieniem fioletu, na przekroju ciemnoróżowa.</color>
+        <appearance>Śliwka węgierka w zalewie octowej.</appearance>
+        <consistency>Śliwka lekko sprężysta.</consistency>
+        <flavor>Charakterystyczny dla śliwki węgierki z posmakiem i aromatem octu oraz przypraw takich ja: goździki, cynamon i laska wanilii.</flavor>
+        <size>Śliwka o długości od 2 cm do 4 cm i średnicy około 2,5 cm.</size>
+    </item>
+    <item>
+        <name>Śliwka gubinka</name>
+        <form>Eliptyczny, podłużny i zwężony na końcach.</form>
+        <color>Żółto-pomarańczowo-czerwona skórka, czerwone przetchlinki, żółto-pomarańczowy miąższ.</color>
+        <appearance>Żółto-czerwony owoc z widocznymi ciemnoczerwonymi przetchlinkami.</appearance>
+        <consistency>Owoc jest miękki, skórka dość krucha, łatwo odchodząca od miąższu, miąższ galaretowaty (żelowaty), łatwo odchodzący od pestki.</consistency>
+        <flavor>Słodki z delikatnym kwaśnym posmakiem. W stanie surowym owoce wydzielają aromatyczną woń.</flavor>
+        <size>Długość ok. 3-4 cm, szerokość 2,5 cm, grubość 2 cm, waga przeciętna 100 owoców – 1210 g.</size>
+    </item>
+    <item>
+        <name>Kapusta kwaszona kraśnicka</name>
+        <form>Skrawki mają kształt nitkowaty, podłużny i dość niewielkie pole przekroju (do kilku milimetrów kwadratowych).</form>
+        <color>Skrawki zarówno na zewnątrz, jak i na przekroju mają barwę kremowo-białą z żółtawym odcieniem. Sok jest jasnoszary, opalizujący</color>
+        <appearance>Kapusta kwaszona ma postać podłużnych skrawków, powstałych po rozdrobnieniu główek kapusty białej, zanurzonych w jasnoszarym soku (tzw. kwasie).</appearance>
+        <consistency>Skrawki są jędrne i chrupkie.</consistency>
+        <flavor>Smak kwaskowy, charakterystyczny dla kapusty kwaszonej. Zapach charakterystyczny dla kapusty kwaszonej, lecz niezbyt intensywny. Brak posmaków i zapachów obcych.</flavor>
+        <size>Długość skrawków – od 3 do 25 cm Pole przekroju – kilka mm²</size>
+    </item>
+    <item>
+        <name>Kapusta modra szmurowana z rodzynkami</name>
+        <form>Podłużny i nitkowaty.</form>
+        <color>Ciemnoniebieska z odcieniem czerwonym.</color>
+        <appearance>Poszatkowana kapusta czerwona z widocznymi dodatkami rodzynek, cebuli oraz jabłek.</appearance>
+        <consistency>Chrupkie i jędrne skrawki, miękkie po uduszeniu.</consistency>
+        <flavor>Słodko-kwaśny. Ostra woń połączona ze słodkim zapachem pochodzącym od rodzynek i cukru lub miodu.</flavor>
+        <size>Długość nitki zależy od średnicy główki kapusty, nie dłuższa niż 30 mm.</size>
+    </item>
+    <item>
+        <name>Sok z kapusty kwaszonej</name>
+        <form>Wielkość porcji soku zależy od wielkości (pojemności) opakowań, czyli butelek (0,5 l), w które jest rozlewany.</form>
+        <color>Ciecz.</color>
+        <appearance>Sok z kapusty kwaszonej jest cieczą rozlewaną do brązowych butelek plastikowych o pojemności 0,5 l, opatrzonych etykietą oraz ulotką informacyjną</appearance>
+        <consistency>Smak i zapach właściwy, bez obcych posmaków, słono-kwaśny.</consistency>
+        <flavor>Zastosowanie: kulinarne (naturalny zakwaszacz do zup, np. barszczu czerwonego, barszczu białego, zupy rybnej i innych) oraz lecznicze. Właściwości lecznicze produktu: poprawia apetyt, jest bogatym źródłem wielu witamin i minerałów, szczególnie witaminy C (proces kwaszenia, podczas którego sok powstaje, stabilizuje witaminę C, chroni ją bowiem kwaśne środowisko i atmosfera beztlenowa), zwiększa odporność organizmu (bakterie fermentacji mlekowej nie wytwarzają związków szkodliwych dla zdrowia, a ich metabolizm hamuje rozwój bakterii patogennych), oczyszcza przewód pokarmowy, leczy niestrawność, wrzody żołądka i zaparcia (poprawia wydzielanie soków trawiennych, hamuje wzrost polipów jelita grubego), pobudza produkcję czerwonych krwinek, przeciwdziała chorobie wieńcowej, obniża poziom cholesterolu, pomaga w leczeniu chorób skóry, zawiera substancje obniżające poziom estrogenów i chroniące przed rakiem piersi. Sok wytwarzany jest tradycyjnymi metodami, całkowicie naturalnie, nie zawiera żadnych konserwantów.</flavor>
+        <size>Jasnoszary, opalizujący, nieznacznie mętny.</size>
+    </item>
+    <item>
+        <name>Gruszka suszona kraśnicka</name>
+        <form>Kształt wydłużony, w przekroju widoczne wklęśnięcie przy gnieździe nasiennym.</form>
+        <color>Barwa zewnętrzna brązowa, lekko miodowa przy szypułce i kielichu, w przekroju miąższ złotawo-brązowy.</color>
+        <appearance>Gruszka suszona lekko pomarszczona, w przekroju gładka z widocznym gniazdem nasiennym</appearance>
+        <consistency>Konsystencja stała, w dotyku lepka, elastyczna, szorstka</consistency>
+        <flavor>Smak korzenny, lekko słodki. Zapach miodowo-korzenny, swoisty, bez obcych domieszek</flavor>
+        <size>Średnia wielkość.</size>
+    </item>
+    <item>
+        <name>Gruszki szaruszki w syropie</name>
+        <form>Nie dotyczy.</form>
+        <color>Złocistobrązowa.</color>
+        <appearance>Niedrążone połówki gruszek, niektóre z ogonkami, zanurzone w gęstym, klarownym syropie. W syropie widoczne goździki korzenne (2-3 sztuki na słoik).</appearance>
+        <consistency>Miękkie owoce w lepkiej, gęstawej cieczy.</consistency>
+        <flavor>Smak słodko-octowy, zbliżony do smaku syropu w jakim są zanurzone. Zapach i posmak korzenny.</flavor>
+        <size>Nie dotyczy.</size>
+    </item>
+    <item>
+        <name>Fjut/cyrop</name>
+        <form>W zależności od kształtu naczynia.</form>
+        <color>Od złocisto-bursztynowej do ciemnobrązowej.</color>
+        <appearance>Płynna masa.</appearance>
+        <consistency>Lepki, lejący się syrop, o konsystencji płynnego miodu (patoki).</consistency>
+        <flavor>Słodki o lekkim posmaku i zapachu karmelu.</flavor>
+        <size>W zależności od objętości naczynia.</size>
+    </item>
+    <item>
+        <name>Śliwka w occie</name>
+        <form>Owalny.</form>
+        <color>Skórka śliwki brązowa z odcieniem fioletu, na przekroju barwa od ciemnoróżowej do fioletowej. </color>
+        <appearance>Charakterystyczny dla owocu śliwki węgierki.</appearance>
+        <consistency>Sprężysta, lekko lepka.</consistency>
+        <flavor>Charakterystyczny dla śliwki w occie z wyraźnym posmakiem octu i przypraw takich jak cynamon, goździki.</flavor>
+        <size>Śliwka o długości od 2,5 cm do 5 cm i średnicy około 2,5 cm. </size>
+    </item>
+    <item>
+        <name>Powidła śliwkowe z Doliny Dolnej Wisły</name>
+        <form>Plastyczna masa przyjmująca kształt naczynia </form>
+        <color>Gęsta masa, w przypadku konserwacji przez zapiekanie – o twardej, lśniącej powierzchni </color>
+        <appearance>Gęsta masa owocowa z fragmentami skórek owoców, o powierzchni lśniącej, bardziej zestalonej
+        </appearance>
+        <consistency>Smak lekko słodki, kwaskowaty, z wyczuwalną delikatną goryczką w przypadku wysmażania śliwek z pestkami; zapach swoisty smażonej śliwki, z lekkim aromatem dymu i pestki</consistency>
+        <flavor>Jednym z najstarszych sposobów utrwalania i konserwacji owoców śliw jest ich rozgotowywanie i zagęszczanie poprzez odparowywanie w podgrzewanych kotłach. Ten rodzaj przetwarzania owoców znany jest z przekazów źródłowych pochodzących z XVI wieku. Produkt powstały w ten sposób nazywano powidłami. Powidła smażono tradycyjnie w miedzianych (inaczej kuprowych) kotłach, mieszając masę owocową drewnianym mieszadłem, do momentu, gdy zaczynała odstawać od ścianek kotła i nie spadała z mieszadła, lub gdy spadała dużymi płatami. Do oddzielania pestek od masy owocowej używano specjalnych sit ceramicznych wytwarzanych przez garncarzy, z których najbardziej znani byli garncarze z Gruczna nad Wisłą. W drugiej połowie XIX wieku na obszarze Doliny Dolnej Wisły zaczęło się intensywnie rozwijać sadownictwo, wykorzystujące bardzo dobre, specyficzne warunki glebowo-klimatyczne doliny. Działania te wspierane były także przez władze pruskie. Doprowadziło to do tego, że dolina Wisły stała się największym na Pomorzu rejonem sadowniczym. Badania terenowe prowadzone przez pracowników Muzeum Etnograficznego w Toruniu na obszarze Doliny Dolnej Wisły potwierdziły istnienie dużej ilości budynków suszarni owoców, w których źródłem gorącego powietrza były paleniska z miejscem na kotły do smażenia powideł, co świadczy o tym, że w budynkach tych wysmażano również powidła. Potwierdzają to wywiady terenowe, wskazujące na długą tradycję smażenia powideł na tym obszarze. W zbiorach Muzeum Etnograficznego znajduje się kilka obiektów związanych ze smażeniem powideł – miedziany kocioł i mieszadła, pochodzące z przełomu XIX i XX wieku. Dolina Dolnej Wisły jest obszarem, na którym funkcjonowały różne grupy ludności o odmiennych kulturach. W XVII wieku dolinę stopniowo zagospodarowywali rolniczo osadnicy z północno-zachodniej Europy, głównie z Niderlandów (dzisiejsza Holandia). W okresie rozbiorów byli oni stopniowo wypierani przez ludność niemiecką (pruską), która przejmowała jednak ich kulturę gospodarczą. Po II wojnie światowej nastąpił gwałtowny regres tej kultury wskutek opuszczenia doliny przez dotychczasowych mieszkańców i zasiedlenie przez przybyszów z terenów wschodnich. Musiało upłynąć sporo czasu, zanim nowi mieszkańcy zaakceptowali i wchłonęli dziedzictwo kultury materialnej pozostawione im przez poprzedników. Obecnie obserwuje się renesans tradycji tych terenów, czego jednym z przejawów jest między innymi odtwarzanie tradycji smażenia powideł śliwkowych w wielu miejscowościach leżących na obszarze Doliny Dolnej Wisły. Etnograf Władysław Łęga w swej pracy Okolice Świecia – materiały etnograficzne wydanej przez Gdańskie Towarzystwo Naukowe w roku 1960 opisuje działalność garncarzy z Gruczna. Na stronach 70-71 podaje fakt wytwarzania przez nich specjalnych „mis”, o średnicy ca 30 cm, zaopatrzonych na dnie i bokach w otworki oraz dwa ucha o długości 10 cm, które były przeznaczone do wyrobu marmolady z jabłek i śliwek i zależnie od tego miały mniejsze lub większe dziurki, przez które pestki jabłek lub śliwek nie mogły przejść. Na rycinach 74 i 76 Łęga pokazuje takie ceramiczne sita. Na stronie 5 autor podaje, że materiały do swej pracy zaczął zbierać już w roku 1916, będąc wikarym w parafii w Grucznie. Tenże Łęga w pracy Ziemia Chełmińska – prace i materiały etnograficzne, tom XVII, wydanej przez Polskie Towarzystwo Ludoznawcze we Wrocławiu w roku 1961, na stronie 35, opisując potrawy mieszkańców „pasa nadwiślańskiego”, podaje: Z owoców robią muzy tj. zupy owocowe, które spożywają na obiad, ze śliwek smażą powidła,…. Informacje o wieloletniej tradycji smażenia na terenie Doliny Dolnej Wisły powideł śliwkowych potwierdzają także najstarsi mieszkańcy tych obszarów.</flavor>
+        <size>Kolor ciemnego brązu z odcieniem bordowym, na przekroju jaśniejszy, z widocznymi fragmentami fioletowych skórek owoców śliwy
+        </size>
+    </item>
+    <item>
+        <name>Syrop malinowy z Doliny Baryczy</name>
+        <form>W zależności od naczynia.</form>
+        <color>Od rubinowej do bordowej, intensywna, po rozcieńczeniu ciemno-czerwona.</color>
+        <appearance>Gęsta ciecz.</appearance>
+        <consistency>Syrop ma konsystencję cieczy od lekko gęstej po bardzo gęstą. Stopień zagęszczenia zależy od gatunku maliny, okresu zbioru i zawartości cukru w owocach. Owoce dojrzewające w większej ilości słońca zawierają więcej cukrów, co powoduje, że wytworzony z nich syrop jest bardziej gęsty.</consistency>
+        <flavor>Bardzo słodki, intensywny, świeży zapach owoców malin.</flavor>
+        <size>W zależności od naczynia.</size>
+    </item>
+    <item>
+        <name>Ogórki konserwowe ścinawskie</name>
+        <form>Kształt ogórków świeżych jest prosty, cylindryczny. Kształt nie zmienia się w procesie produkcji.</form>
+        <color>Barwa ogórków konserwowych oliwkowo-zielona o różnych odcieniach, zależy od cech odmianowych.</color>
+        <appearance>Ogórki świeże posiadają wygląd charakterystyczny dla odmian ogórków uprawianych do przetwórstwa zarówno co do zabarwienia jak i gładkości skórki. Ogórki przeznaczone do produkcji układane są pionowo w słoikach 0,9 l. Powierzchnia ogórków - bez uszkodzeń mechanicznych i plam chorobowych.</appearance>
+        <consistency>Ogórki jędrne i chrupkie.</consistency>
+        <flavor>Kwaśno-słodki z wyczuwalnym smakiem i aromatem przypraw, bez posmaków i zapachów obcych.</flavor>
+        <size>Długość ogórków świeżych przeznaczonych do produkcji wynosi 5-9 cm. Grubość nie przekracza 1/3 długości. W procesie produkcji nieznacznie się zmniejsza</size>
+    </item>
+    <item>
+        <name>Ogórki kwaszone ślężańskie</name>
+        <form>Kształt prosty, cylindryczny.</form>
+        <color>Ciemnozielone brodawki i skórka, jaśniejsze smugi do połowy długości owocu. Na przekroju miąższ jasnozielony.</color>
+        <appearance>Ogórki długie, proste z charakterystycznymi brodawkami na skórce. Na przekroju komory nasienne bez pustych przestrzeni.</appearance>
+        <consistency>Zwarta, twarda w dotyku.</consistency>
+        <flavor>Smak kwaśny, typowy dla ogórków kwaszonych. Wyczuwalny jest posmak czosnku, kopru oraz chrzanu.</flavor>
+        <size>Długość od 6 do 12 cm.</size>
+    </item>
+</items>
